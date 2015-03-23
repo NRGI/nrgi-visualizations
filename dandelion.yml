@@ -1,0 +1,10 @@
+adapter: s3
+access_key_id: AKIAII5ZXQIFLL3IHHSA
+secret_access_key: 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
+bucket_name: nrgi-visualizations
+
+exclude:
+    - .gitignore
+    - dandelion.yml
+    - .dockerignore
+    - Dockerfile
