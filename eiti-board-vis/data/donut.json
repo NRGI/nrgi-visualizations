@@ -1,0 +1,132 @@
+{
+	"name": "EITI Revenues",
+	"children": [
+		{
+			"name": "Nigeria",
+			"value": 44944995000
+		},
+		{
+			"name": "Norway",
+			"value": 44013892000
+		},
+		{
+			"name": "Indonesia",
+			"value": 32949795856
+		},
+		{
+			"name": "Kazakhstan",
+			"value": 20754211560
+		},
+		{
+			"name": "Azerbaijan",
+			"value": 19732689646
+		},
+		{
+			"name": "Yemen",
+			"value": 5081696110
+		},
+		{
+			"name": "Other",
+			"children": [
+				{
+					"name": "Peru",
+					"value": 4358147652
+				},
+				{
+					"name": "Cameroon",
+					"value": 3676246859
+				},
+				{
+					"name": "Republic of the Congo",
+					"value": 3195780380
+				},
+				{
+					"name": "Chad",
+					"value": 1347744000
+				},
+				{
+					"name": "Mongolia",
+					"value": 943183886
+				},
+				{
+					"name": "Democratic Republic of Congo",
+					"value": 875938726
+				},
+				{
+					"name": "Zambia",
+					"value": 757063737
+				},
+				{
+					"name": "Other",
+					"children": [
+						{
+							"name": "Tanzania",
+							"value": 305762430
+						},
+						{
+							"name": "Mauritania",
+							"value": 270018613
+						},
+						{
+							"name": "Cote dIvoire",
+							"value": 245231916
+						},
+						{
+							"name": "Guinea",
+							"value": 218560221
+						},
+						{
+							"name": "Ghana",
+							"value": 212460480
+						},
+						{
+							"name": "Madagascar",
+							"value": 160705175
+						},
+						{
+							"name": "Guatemala",
+							"value": 155800631
+						},
+						{
+							"name": "Kyrgyz Republic",
+							"value": 143976791
+						},
+						{
+							"name": "Niger",
+							"value": 109503726
+						},
+						{
+							"name": "Liberia",
+							"value": 71896113
+						},
+						{
+							"name": "Other",
+							"children": [
+								{
+									"name": "Mozambique",
+									"value": 71555872
+								},
+								{
+									"name": "Togo",
+									"value": 60128720
+								},
+								{
+									"name": "Burkina Faso",
+									"value": 47170416
+								},
+								{
+									"name": "Central African Republic",
+									"value": 20633575
+								},
+								{
+									"name": "Sierra Leone",
+									"value": 7586793
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
