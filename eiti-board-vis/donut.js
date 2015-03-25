@@ -3,26 +3,31 @@ var d3,
     width = 960,
     height = 500,
     radius = Math.min(width, height) / 2,
-    color = d3.scale.category10();
+    color = d3.scale.category20();
 
-var arc = d3.svg.arc()
-    .outerRadius(radius - 10)
-    .innerRadius(radius - 150);
-
-var pie = d3.layout.pie()
-    .sort(null)
-    .value(function (d) { return d.revenues; });
-
-var svg = d3.select("#chart1").append("svg")
+var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height)
     .append("g")
     .attr("id", "container")
     .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
+var arc = d3.svg.arc()
+    .startAngle(function (d) { return d.x; })
+    .endAngle(function (d) { return d.x + d.dx - .01 / (d.depth + .5); })
+    .innerRadius(function (d) { return radius / 3 * d.depth; })
+    .outerRadius(function (d) { return radius / 3 * (d.depth + 1) - 1; });
+
 svg.append("svg:circle")
         .attr("r", radius)
         .style("opacity", 0);
+
+// var pie = d3.layout.pie()
+//     .sort(null)
+//     .value(function (d) { return d.revenues; });
+var partition = d3.layout.partition()
+    .sort(function (a, b) { return d3.ascending(a.name, b.name); })
+    .size([2 * Math.PI, radius]);
 
 var div = d3.select("body").append("div")
     .attr("class", "tooltip")
@@ -30,42 +35,122 @@ var div = d3.select("body").append("div")
 
 d3.select("#container").on("mouseleave", mouseleave);
 
-d3.csv("./data/pie.csv", function (error, data) {
-  console.log(data);
+d3.json("./data/donut.json", function (error, root) {
+    // var node = data;
 
-  var node = data;
+  // Compute the initial layout on the entire tree to sum sizes.
+  // Also compute the full name and fill color for each node,
+  // and stash the children so they can be restored as we descend.
+  partition
+      .value(function (d) { return d.value; })
+      .nodes(root)
+      .forEach(function (d) {
+        d._children = d.children;
+        d.sum = d.value;
+        d.key = key(d);
+        d.fill = fill(d);
+      });
 
-  data.forEach(function (d) {
-    d.revenues = +d.revenues;
-  });
+  // Now redefine the value function to use the previously-computed sum.
+  partition
+      .children(function (d, depth) { return depth < 2 ? d._children : null; })
+      .value(function (d) { return d.sum; });
 
-  var g = svg.selectAll(".arc")
-      .data(pie(data))
-    .enter().append("g")
-      .attr("class", "arc")
-      .on("mouseover", mouseover);
+  var center = svg.append("circle")
+      .attr("r", radius / 3)
+      .on("click", zoomOut)
+      .style("fill", "white");
 
-  g.append("path")
+  center.append("title")
+      .text("zoom out");
+
+  var path = svg.selectAll("path")
+      .data(partition.nodes(root).slice(1))
+    .enter().append("path")
       .attr("d", arc)
-      .style("fill", function (d) { return color(d.data.country); });
+      .style("fill", function (d) { return d.fill; })
+      .each(function (d) { this._current = updateArc(d); })
+      .on("click", zoomIn)
+      .on("mouseover",mouseover);
 
-  g.append("text")
+  path.append("text")
       .attr("transform", function (d) { return "translate(" + arc.centroid(d) + ")"; })
       .attr("dy", ".35em")
       .style("text-anchor", "middle")
-      .text(function (d) { return d.data.country; });
+      .text(function (d) { return d.name; });
 
+
+  function zoomIn(p) {
+    if (p.depth > 1) p = p.parent;
+    if (!p.children) return;
+    zoom(p, p);
+  }
+
+  function zoomOut(p) {
+    if (!p.parent) return;
+    zoom(p.parent, p);
+  }
+
+  // Zoom to the specified new root.
+  function zoom(root, p) {
+    if (document.documentElement.__transition__) return;
+
+    // Rescale outside angles to match the new layout.
+    var enterArc,
+        exitArc,
+        outsideAngle = d3.scale.linear().domain([0, 2 * Math.PI]);
+
+    function insideArc(d) {
+      return p.key > d.key
+          ? {depth: d.depth - 1, x: 0, dx: 0} : p.key < d.key
+          ? {depth: d.depth - 1, x: 2 * Math.PI, dx: 0}
+          : {depth: 0, x: 0, dx: 2 * Math.PI};
+    }
+
+    function outsideArc(d) {
+      return {depth: d.depth + 1, x: outsideAngle(d.x), dx: outsideAngle(d.x + d.dx) - outsideAngle(d.x)};
+    }
+
+    center.datum(root);
+
+    // When zooming in, arcs enter from the outside and exit to the inside.
+    // Entering outside arcs start from the old layout.
+    if (root === p) enterArc = outsideArc, exitArc = insideArc, outsideAngle.range([p.x, p.x + p.dx]);
+
+    path = path.data(partition.nodes(root).slice(1), function (d) { return d.key; });
+
+    // When zooming out, arcs enter from the inside and exit to the outside.
+    // Exiting outside arcs transition to the new layout.
+    if (root !== p) enterArc = insideArc, exitArc = outsideArc, outsideAngle.range([p.x, p.x + p.dx]);
+
+    d3.transition().duration(d3.event.altKey ? 7500 : 750).each(function () {
+      path.exit().transition()
+          .style("fill-opacity", function (d) { return d.depth === 1 + (root === p) ? 1 : 0; })
+          .attrTween("d", function (d) { return arcTween.call(this, exitArc(d)); })
+          .remove();
+
+      path.enter().append("path")
+          .style("fill-opacity", function (d) { return d.depth === 2 - (root === p) ? 1 : 0; })
+          .style("fill", function (d) { return d.fill; })
+          .on("click", zoomIn)
+          .each(function (d) { this._current = enterArc(d); });
+
+      path.transition()
+          .style("fill-opacity", 1)
+          .attrTween("d", function (d) { return arcTween.call(this, updateArc(d)); });
+    });
+  }
 });
 
 function mouseover(d) {
-    var revenue = numberWithCommas(d.data.revenues);
+    var revenue = numberWithCommas(d.value);
 
     d3.select('.tooltip')
         .transition()
         .duration(200)
         .style("opacity", .8);
     d3.select('.tooltip')
-        .html("<h4>" + d.data.country + "</h4><small>Revenue: $ " + revenue + "</small>")  
+        .html("<h4>" + d.name + "</h4><small>Revenue: $ " + revenue + "</small>")  
         .style("left", (d3.event.pageX) + "px")     
         .style("top", (d3.event.pageY - 28) + "px");
   
@@ -122,3 +207,30 @@ function getAncestors(node) {
 function numberWithCommas(x) {
     return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
+
+function key(d) {
+  var k = [], p = d;
+  while (p.depth) k.push(p.name), p = p.parent;
+  return k.reverse().join(".");
+}
+
+function fill(d) {
+  var p = d;
+  while (p.depth > 1) p = p.parent;
+  return color(p.name);
+}
+
+function arcTween(b) {
+  var i = d3.interpolate(this._current, b);
+  this._current = i(0);
+  return function (t) {
+    return arc(i(t));
+  };
+}
+
+function updateArc(d) {
+  return {depth: d.depth, x: d.x, dx: d.dx};
+}
+
+// d3.select(self.frameElement).style("height", margin.top + margin.bottom + "px");
+d3.select(self.frameElement).style("height", height + "px");
