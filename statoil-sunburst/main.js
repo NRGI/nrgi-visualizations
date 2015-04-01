@@ -5,6 +5,7 @@ var d3;
 var datafile = location.pathname.substring(1) === 'statoil-sunburst/projects.html'
     ? './data/statoil_proj.json'
     : './data/statoil_gov.json';
+console.log(location.pathname.substring(1));
 
 // Dimensions
 var width = 750,
@@ -67,14 +68,22 @@ d3.json(datafile, function (error, root) {
         .attr("r", radius)
         .style("opacity", 0);
 
+    // center.append("title")
+    //     .text("zoom out");
+
     // create visualization
     var path = svg.datum(root).selectAll("path")
         .data(partition.nodes)
         .enter().append("path")
-        // .attr("display", function (d) { return d.depth ? null : "none"; }) // hide inner ring
         .attr("d", arc)
-        .style("fill", function (d) { return color((d.children ? d : d.parent).name); })
-        // .style("fill", function (d) { return d.depth ? null : "white"; }) // hide inner ring
+        .attr("id", "circle")
+        .style("fill", function (d) {
+            if (d.depth) {
+                return color((d.children ? d : d.parent).name);
+            } else {
+                return "white";
+            }
+        })
         .style("fill-rule", "evenodd")
         .style("opacity", 1)
         .on("click", click)

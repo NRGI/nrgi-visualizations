@@ -35,34 +35,36 @@ var div = d3.select("body").append("div")
 
 
 d3.csv("./data/scatter.csv", function (error, data) {
-//     // get the x and y values for least squares
-//     var xSeries = data.map(function (d) { return parseFloat(d['oda']); });
-//     var ySeries = data.map(function (d) { return parseFloat(d['resource']); });
+    // get the x and y values for least squares
+    var xSeries = data.map(function (d) { return parseFloat(d.oda); }),
+        ySeries = data.map(function (d) { return parseFloat(d.resource); }),
 
-//     var leastSquaresCoeff = leastSquares(xSeries, ySeries);
-//     console.log(leastSquaresCoeff);
+        // returns slope, intercept and r-square of the line
+        leastSquaresCoeff = leastSquares(xSeries, ySeries),
 
-//     // apply the reults of the least squares regression
-//     var x1 = 0.01;
-//     var y1 = leastSquaresCoeff[0] + leastSquaresCoeff[1];
-//     var x2 = 1;
-//     var y2 = leastSquaresCoeff[0] * 1 + leastSquaresCoeff[1];
-//     var trendData = [[x1,y1,x2,y2]];
+        max = d3.max(data, function (d) { return d.oda; }),
+        // apply the reults of the least squares regression
+        x1 = 0.1,
+        // var x1 = 0;
+        y1 = leastSquaresCoeff[0] * 0.1 + leastSquaresCoeff[1],
+        // var y1 = leastSquaresCoeff[1];
+        x2 = (max - 0.2),
+        y2 = leastSquaresCoeff[0] * (max - 0.2) + leastSquaresCoeff[1],
+        trendData = [[x1, y1, x2, y2]];
 
-// //     console.log(trendData);
-// // return [slope, intercept, rSquare]
-//     var trendline = svg.selectAll(".trendline")
-//         .data(trendData);
+    var trendline = svg.selectAll(".trendline")
+        .data(trendData);
 
-//     trendline.enter()
-//         .append("line")
-//         .attr("class", "trendline")
-//         .attr("x1", function(d) { return xScale(d[0]); })
-//         .attr("y1", function(d) { return yScale(d[1]); })
-//         .attr("x2", function(d) { return xScale(d[2]); })
-//         .attr("y2", function(d) { return yScale(d[3]); })
-//         .attr("stroke", "black")
-//         .attr("stroke-width", 1);
+    trendline.enter()
+        .append("line")
+        .attr("class", "trendline")
+        .attr("x1", function (d) { return xScale(d[0]); })
+        .attr("y1", function (d) { return yScale(d[1]); })
+        .attr("x2", function (d) { return xScale(d[2]); })
+        .attr("y2", function (d) { return yScale(d[3]); })
+        .attr("stroke", "black")
+        .attr("stroke-width", 1)
+        .style("opacity", 0.3);
 
     data.forEach(function (d) {
         d.resource = +d.resource;
@@ -107,62 +109,70 @@ d3.csv("./data/scatter.csv", function (error, data) {
 });
 
 function mouseover(d) {
-    var oda = (d.oda * 100).toFixed(2);
-    var resource = (d.resource * 100).toFixed(2);
+    var oda = (d.oda * 100).toFixed(2),
+        resource = (d.resource * 100).toFixed(2),
+        hover_element = this;
 
     d3.select('.tooltip')
         .transition()
-        .duration(200)
-        .style("opacity", .8);
+        .duration(500)
+        .style("opacity", 0.8);
+
     d3.select('.tooltip')
-        .html("<h4>" + d.country + "</h4><small>ODA: " + oda + " %<br/>Resource revenue: " + resource + " %</small>")  
-        .style("left", (d3.event.pageX) + "px")     
+        .html("<h4>" + d.country + "</h4><small>ODA: " + oda + " %<br/>Resource revenue: " + resource + " %</small>")
+        .style("left", (d3.event.pageX) + "px")
         .style("top", (d3.event.pageY - 28) + "px");
-  
-  // Fade all the segments.
-  d3.selectAll("path")
-      .style("opacity", 0.3);
-  
-  
+
+    // Fade all the segments.
+    d3.selectAll('.dot')
+        .filter(function (d,i) {
+            return (this !== hover_element);
+        })
+        .transition()
+        .duration(500)
+        .style('opacity', '0.5');
+
+    d3.select(this).attr('opacity', '1.0');
 }
 
-function mouseleave(d) {
-  d3.select('.tooltip')
-      .transition()
-      .duration(200)
-      .style("opacity", 0);
+function mouseleave() {
+    d3.select('.tooltip')
+        .transition()
+        .duration(500)
+        .style("opacity", 0);
 
-  // Deactivate all segments during transition.
-  d3.selectAll("path").on("mouseover", null);
+    // Deactivate all segments during transition.
+    d3.selectAll("path").on("mouseover", null);
 
-  // Transition each segment to full opacity and then reactivate it.
-  d3.selectAll("path")
-      .transition()
-      .duration(1000)
-      .style("opacity", 1)
-      .each("end", function () {
-        d3.select(this).on("mouseover", mouseover);
-      });
+    // Transition each segment to full opacity and then reactivate it.
+    d3.selectAll(".dot")
+        .transition()
+        .duration(500)
+        .style("opacity", 1)
+        .each("end", function () {
+            d3.select(this).on("mouseover", mouseover);
+        });
 }
-// // returns slope, intercept and r-square of the line
-// function leastSquares(xSeries, ySeries) {
-//     var reduceSumFunc = function (prev, cur) { return prev + cur; };
-    
-//     var xBar = xSeries.reduce(reduceSumFunc) * 1.0 / xSeries.length;
-//     var yBar = ySeries.reduce(reduceSumFunc) * 1.0 / ySeries.length;
 
-//     var ssXX = xSeries.map(function (d) { return Math.pow(d - xBar, 2); })
-//         .reduce(reduceSumFunc);
-    
-//     var ssYY = ySeries.map(function (d) { return Math.pow(d - yBar, 2); })
-//         .reduce(reduceSumFunc);
-      
-//     var ssXY = xSeries.map(function (d, i) { return (d - xBar) * (ySeries[i] - yBar); })
-//         .reduce(reduceSumFunc);
-      
-//     var slope = ssXY / ssXX;
-//     var intercept = yBar - (xBar * slope);
-//     var rSquare = Math.pow(ssXY, 2) / (ssXX * ssYY);
-    
-//     return [slope, intercept, rSquare];
-// }
+// returns slope, intercept and r-square of the line
+function leastSquares(xSeries, ySeries) {
+    var reduceSumFunc = function (prev, cur) { return prev + cur; },
+
+        xBar = xSeries.reduce(reduceSumFunc) * 1.0 / xSeries.length,
+        yBar = ySeries.reduce(reduceSumFunc) * 1.0 / ySeries.length,
+
+        ssXX = xSeries.map(function (d) { return Math.pow(d - xBar, 2); })
+            .reduce(reduceSumFunc),
+
+        ssYY = ySeries.map(function (d) { return Math.pow(d - yBar, 2); })
+            .reduce(reduceSumFunc),
+
+        ssXY = xSeries.map(function (d, i) { return (d - xBar) * (ySeries[i] - yBar); })
+            .reduce(reduceSumFunc),
+
+        slope = ssXY / ssXX,
+        intercept = yBar - (xBar * slope),
+        rSquare = Math.pow(ssXY, 2) / (ssXX * ssYY);
+
+    return [slope, intercept, rSquare];
+}
