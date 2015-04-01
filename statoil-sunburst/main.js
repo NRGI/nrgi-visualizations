@@ -5,6 +5,7 @@ var d3;
 var datafile = location.pathname.substring(1) === 'statoil-sunburst/projects.html'
     ? './data/statoil_proj.json'
     : './data/statoil_gov.json';
+console.log(location.pathname.substring(1));
 
 // Dimensions
 var width = 750,
