@@ -2,10 +2,12 @@
 var d3;
 
 // declare datafile based on path
-var datafile = location.pathname.substring(1) === 'statoil-sunburst/projects.html'
-    ? './data/statoil_proj.json'
-    : './data/statoil_gov.json';
-console.log(location.pathname.substring(1));
+var proj_data = './data/statoil_proj.json',
+    gov_data = './data/statoil_gov.json';
+
+// var datafile = location.pathname.substring(1) === 'statoil-sunburst/projects.html'
+//     ? './data/statoil_proj.json'
+//     : './data/statoil_gov.json';
 
 // Dimensions
 var width = 750,
@@ -58,7 +60,7 @@ var opts = [
     ];
 
 // read in data
-d3.json(datafile, function (error, root) {
+d3.json(proj_data, function (error, root) {
    // Basic setup of page elements.
     node = root;
     initializeBreadcrumbTrail();
@@ -148,6 +150,62 @@ d3.json(datafile, function (error, root) {
 
     options.text(function (d) { return d.text; })
          .attr("value", function (d) { return d.value; });
+
+    d3.select('button').on('click', function () {
+        var value = this.textContent;
+
+        if (value === 'Government Agencies') {
+            d3.select('button')
+                .text('Project Payments');
+            d3.select('#chart_title')
+                .text(value);
+
+            d3.json(gov_data, function (error, root) {
+                // Basic setup of page elements.
+                node = root;
+
+                svg.datum(root).selectAll("path")
+                    .data(partition.nodes)
+                    .each(stash)
+                    .style("fill", function (d) {
+                        if (d.depth) {
+                            return color((d.children ? d : d.parent).name);
+                        } else {
+                            return "white";
+                        }
+                    })
+                    .transition()
+                    .duration(1000)
+                    .attrTween("d", arcTweenData);
+
+            });
+        } else if (value === 'Project Payments') {
+            d3.select('button')
+                .text('Government Agencies');
+            d3.select('#chart_title')
+                .text(value);
+
+            d3.json(proj_data, function (error, root) {
+                // Basic setup of page elements.
+                node = root;
+
+                svg.datum(root).selectAll("path")
+                    .data(partition.nodes)
+                    .each(stash)
+                    .style("fill", function (d) {
+                        if (d.depth) {
+                            return color((d.children ? d : d.parent).name);
+                        } else {
+                            return "white";
+                        }
+                    })
+                    .transition()
+                    .duration(1000)
+                    .attrTween("d", arcTweenData);
+
+            });
+        }
+    });
 
 
   function click(d) {
@@ -306,7 +364,11 @@ function stash(d) {
 
 // When switching data: interpolate the arcs in data space.
 function arcTweenData(a, i) {
+  console.log(a);
+  console.log(i);
+
   var oi = d3.interpolate({x: a.x0, dx: a.dx0}, a);
+
   function tween(t) {
     var b = oi(t);
     a.x0 = b.x;
@@ -337,3 +399,7 @@ function arcTweenZoom(d) {
         : function (t) { x.domain(xd(t)); y.domain(yd(t)).range(yr(t)); return arc(d); };
   };
 }
+
+// function arcTween() {
+
+// }
