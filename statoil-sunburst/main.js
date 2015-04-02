@@ -55,7 +55,7 @@ var opts = [
         {'value': 'fees', 'text': 'Fee payments (NOK)'},
         {'value': 'bonuses', 'text': 'Bonus payments (NOK)'},
         {'value': 'gov_entitlements_value', 'text': 'Government entitlements (NOK)'},
-        {'value': 'gov_entitlements_mmboe', 'text': 'Government entitlements (MMBOE'},
+        {'value': 'gov_entitlements_mmboe', 'text': 'Government entitlements (MMBOE)'},
         {'value': 'count', 'text': 'Count'}
     ];
 
