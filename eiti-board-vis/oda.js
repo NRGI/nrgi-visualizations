@@ -2,7 +2,7 @@
 var d3;
 
 // var datafile = "./data/health2.csv";
-var datafile = "./data/health.json";
+var datafile = "./data/oda.json";
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 800 - margin.left - margin.right,

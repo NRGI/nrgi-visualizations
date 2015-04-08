@@ -2,7 +2,7 @@
 var d3;
 
 // var datafile = "./data/health2.csv";
-var datafile = "./data/health.json";
+var datafile = "./data/education.json";
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 800 - margin.left - margin.right,
@@ -145,7 +145,7 @@ d3.json(datafile, function (error, data) {
         .data(catNames.slice().reverse())
         .enter().append("g")
         .attr("class", "legend")
-        .attr("transform", function (d, i) { return "translate(-550," + i * 20 + ")"; });
+        .attr("transform", function (d, i) { return "translate(-500," + i * 20 + ")"; });
 
     legend.append("rect")
         .attr("x", width - 18)
