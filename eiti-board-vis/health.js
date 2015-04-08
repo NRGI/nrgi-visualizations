@@ -17,7 +17,8 @@ var y = d3.scale.linear()
     .range([height, 0]);
 
 var color = d3.scale.ordinal()
-    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+    // .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+    .range(["#4f7184", "#ff6f4a"]);
 
 var xAxis = d3.svg.axis()
     .scale(x0)
@@ -69,6 +70,8 @@ function d3_format_precision(x, p) {
 // d3.csv(datafile, function (error, data) {
 d3.json(datafile, function (error, data) {
 
+    var groupSpacing = 0;
+
     data.sort(function (a, b) {
         return a.year - b.year;
     });
@@ -92,7 +95,8 @@ d3.json(datafile, function (error, data) {
         years.push(total[i].year);
     };
 
-    var catNames = ["Resource Revenues", "Export Revenues", "Health Expenditures"];
+    // var catNames = ["Resource Revenues", "Export Revenues", "Health Expenditures"];
+    var catNames = ["Resource Revenues", "Health Expenditures"];
 
     x0.domain(years.map(function (d) { return d; }));
     x1.domain(catNames).rangeRoundBands([0, x0.rangeBand()]);
@@ -120,7 +124,7 @@ d3.json(datafile, function (error, data) {
     year.selectAll("rect")
         .data(function (d) { return d.cats; })
         .enter().append("rect")
-        .attr("width", x1.rangeBand())
+        .attr("width", x1.rangeBand() - groupSpacing)
         .attr("class", "year")
         .attr("x", function (d) { return x1(d.name); })
         .attr("y", function (d) { return y(d.value); })
@@ -188,7 +192,7 @@ d3.json(datafile, function (error, data) {
                     "cats": [
                         {"name": catNames[0], "value": 0},
                         {"name": catNames[1], "value": 0},
-                        {"name": catNames[2], "value": 0}
+                        // {"name": catNames[2], "value": 0}
                     ] 
                 });
             };
@@ -197,7 +201,7 @@ d3.json(datafile, function (error, data) {
                     if (new_data[i]["year"] === tmp[j]["year"]) {
                         new_data[i]["cats"][0]["value"] = tmp[j]["cats"][0]["value"];
                         new_data[i]["cats"][1]["value"] = tmp[j]["cats"][1]["value"];
-                        new_data[i]["cats"][2]["value"] = tmp[j]["cats"][2]["value"];
+                        // new_data[i]["cats"][2]["value"] = tmp[j]["cats"][2]["value"];
                     }
                 };
             };
