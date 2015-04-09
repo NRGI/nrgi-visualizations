@@ -114,6 +114,11 @@ d3.json(datafile, function (error, data) {
         .attr("id", "container")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+     svg.append("rect")
+        .attr("width", "93.5%")
+        .attr("height", "87.5%")
+        .attr("fill", "#e6e6e6");
+
     var div = d3.select("body").append("div")
         .attr("class", "tooltip")
         .style("opacity", 0);
