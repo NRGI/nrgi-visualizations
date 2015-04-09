@@ -154,13 +154,14 @@ d3.json(datafile, function (error, data) {
 
     legend.append("rect")
         .attr("x", width - 18)
+        .attr("y", 10)
         .attr("width", 18)
         .attr("height", 18)
         .style("fill", color);
 
     legend.append("text")
         .attr("x", width - 24)
-        .attr("y", 9)
+        .attr("y", 20)
         .attr("dy", ".35em")
         .style("text-anchor", "end")
         .text(function (d) { return d; });
