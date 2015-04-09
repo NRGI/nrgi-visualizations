@@ -2,8 +2,8 @@
 var d3;
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = 400 - margin.left - margin.right,
-    height = 400 - margin.top - margin.bottom,
+    width = 700 - margin.left - margin.right,
+    height = 700 - margin.top - margin.bottom,
     radius = Math.min(width, height) / 2,
     color = d3.scale.category10();
 
