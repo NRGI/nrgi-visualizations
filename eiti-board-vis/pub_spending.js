@@ -1,12 +1,11 @@
 'use strict';
 var d3;
 
-// var datafile = "./data/health2.csv";
 var datafile = "./data/pub_spending.json";
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = 800 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    width = 900 - margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom;
 
 var x0 = d3.scale.ordinal()
     .rangeRoundBands([0, width], 0.1);
@@ -145,7 +144,7 @@ d3.json(datafile, function (error, data) {
         .data(catNames.slice().reverse())
         .enter().append("g")
         .attr("class", "legend")
-        .attr("transform", function (d, i) { return "translate(-550," + i * 20 + ")"; });
+        .attr("transform", function (d, i) { return "translate(-600," + i * 20 + ")"; });
 
     legend.append("rect")
         .attr("x", width - 18)
