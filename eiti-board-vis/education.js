@@ -115,6 +115,11 @@ d3.json(datafile, function (error, data) {
         .attr("id", "container")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+     svg.append("rect")
+        .attr("width", "93.5%")
+        .attr("height", "87.5%")
+        .attr("fill", "#e6e6e6");  
+
     var div = d3.select("body").append("div")
         .attr("class", "tooltip")
         .style("opacity", 0);
@@ -127,7 +132,7 @@ d3.json(datafile, function (error, data) {
         .filter(function (d) { return (d.name === "*Total"); })
         .attr("class", "g")
         .attr("transform", function (d) { return "translate(" + x0(d.year) + ",0)"; });
-    
+
     year.selectAll("rect")
         .data(function (d) { return d.cats; })
         .enter().append("rect")
@@ -138,6 +143,8 @@ d3.json(datafile, function (error, data) {
         .attr("height", function (d) { return height - y(d.value); })
         .style("fill", function (d) { return color(d.name); })
         .on("mouseover", mouseover);
+
+
 
     d3.select("#chart_title")
         .text("Total");
