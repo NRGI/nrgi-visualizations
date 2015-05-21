@@ -70,6 +70,9 @@ def main(args):
                 if country == "C\x93te d'Ivoire":
                     country = "Cote d'Ivoire"
                     country_id = 'CIV'
+                elif country == "C\xd2te d'Ivoire":
+                    country = "Cote d'Ivoire"
+                    country_id = 'CIV'
                 elif country == 'Democratic Republic of Congo':
                     country_id = 'COD'
                 elif country == 'Kyrgyz Republic':
