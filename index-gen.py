@@ -1,4 +1,5 @@
 import os.path
+from bs4 import BeautifulSoup
 
 def main():
 
@@ -56,12 +57,16 @@ def main():
             print 'index for ', source_dir
             file_li = ''
             for index, end_point in enumerate(file_list):
-                if end_point == 'index.html' or '.js' in end_point:
+                if end_point == 'index.html' or end_point == 'boiler.html' or '.js' in end_point or 'Ds_Store' in end_point or 'DS_Store' in end_point:
                     pass
-                elif index == len(file_list) - 1:
-                    file_li = file_li + '<li><a href="./' + end_point + '">' + end_point.replace('.html', '').title() + '</a></li>'
                 else:
-                    file_li = file_li + '<li><a href="./' + end_point + '">' + end_point.replace('.html', '').title() + '</a></li>\n      '
+                    with open(source_dir + '/' + end_point, 'r') as html_doc:
+                        if index == len(file_list) - 1:
+                            soup = BeautifulSoup(html_doc)
+                            file_li = file_li + '<li><a href="./' + end_point + '">' + soup.title.string.title() + '</a></li>'
+                        else:
+                            soup = BeautifulSoup(html_doc)
+                            file_li = file_li + '<li><a href="./' + end_point + '">' + soup.title.string.title() + '</a></li>\n      '
             replacements = ('..', '..', file_li)
             with open(source_dir + '/index.html', 'w') as index_file:
                 index_file.write(template  % replacements)

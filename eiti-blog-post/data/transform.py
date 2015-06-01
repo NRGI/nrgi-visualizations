@@ -49,6 +49,11 @@ def main(args):
                 else:
                     comp_val = float(row[lkey[comp]])
 
+                # if len(args) == 3:
+                #     if args[2] == country_id:
+                #         country = '*' + country
+                #     print args[2]
+
                 json_data.append({
                     "name": country,
                     'id': country_id,
