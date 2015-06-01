@@ -48,9 +48,9 @@ for (source_dir, dir_list, file_list) in os.walk(root_dir):
             if sub_dir[0] == '.' or sub_dir == 'css' or sub_dir == 'assets' or sub_dir == 'scripts':
                 pass
             elif index == len(dir_list) - 1:
-                dir_li = dir_li + '<li><a href="./' + sub_dir + '/">' + sub_dir.title() + '</a></li>'
+                dir_li = dir_li + '<li><a href="./' + sub_dir + '/index.html">' + sub_dir.title() + '</a></li>'
             else:
-                dir_li = dir_li + '<li><a href="./' + sub_dir + '/">' + sub_dir.title() + '</a></li>\n      '
+                dir_li = dir_li + '<li><a href="./' + sub_dir + '/index.html">' + sub_dir.title() + '</a></li>\n      '
         replacements = ('.', '.', dir_li)
         with open('index.html', 'w') as index_file:
             index_file.write(template  % replacements)
@@ -67,4 +67,3 @@ for (source_dir, dir_list, file_list) in os.walk(root_dir):
         replacements = ('..', '..', file_li)
         with open(source_dir + '/index.html', 'w') as index_file:
             index_file.write(template  % replacements)
-            
