@@ -1,0 +1,3572 @@
+[
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":205939877387.56998
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":433017205700.37
+            }
+        ],
+        "year":"2008",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":89690970.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1001321933.0
+            }
+        ],
+        "year":"2008",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":183349959064.08002
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":547272839841.2
+            }
+        ],
+        "year":"2009",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":7788994.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1582845841.0
+            }
+        ],
+        "year":"2009",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":241167494653.33002
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":712605553543.4
+            }
+        ],
+        "year":"2010",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":23383829.47
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2347966451.0
+            }
+        ],
+        "year":"2010",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":346805967802.9899
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":849133941744.7001
+            }
+        ],
+        "year":"2011",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":101776402.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3385680340.0
+            }
+        ],
+        "year":"2011",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":33298711.2
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2941677383.0
+            }
+        ],
+        "year":"2009",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":62819643.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2968738930.0
+            }
+        ],
+        "year":"2010",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":87672150.57
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3353687892.0
+            }
+        ],
+        "year":"2011",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":233151381977.15997
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":697347805254.8999
+            }
+        ],
+        "year":"2012",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":92136623.82
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3209083922.0
+            }
+        ],
+        "year":"2012",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":18467106959.8
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":622338949.8
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":31170981316.87
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2576875030.9
+            }
+        ],
+        "year":"2004",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1099837402.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":53177691400.8
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":91690681760.7
+            }
+        ],
+        "year":"2005",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1468619690.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2810546069.0
+            }
+        ],
+        "year":"2005",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":74649445175.24
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":130988162820.09999
+            }
+        ],
+        "year":"2006",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3510790700.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3916760478.0
+            }
+        ],
+        "year":"2006",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":84131289071.69
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":135038799587.1
+            }
+        ],
+        "year":"2007",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5563486878.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":9024065866.0
+            }
+        ],
+        "year":"2007",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":19134087707.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":13069504766.0
+            }
+        ],
+        "year":"2008",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":14160319906.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":11881635220.0
+            }
+        ],
+        "year":"2009",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":19732689646.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":13279107574.0
+            }
+        ],
+        "year":"2010",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":23901723060.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":18478986425.0
+            }
+        ],
+        "year":"2011",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":21826952016.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":19404109470.0
+            }
+        ],
+        "year":"2012",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3819907.48
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1485257350.0
+            }
+        ],
+        "year":"2008",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":23106501.17
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1508678823.0
+            }
+        ],
+        "year":"2009",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":47170416.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1587128760.0
+            }
+        ],
+        "year":"2010",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":236414921.9
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4236375131.0
+            }
+        ],
+        "year":"2011",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":366304044.3
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2156094658.0
+            }
+        ],
+        "year":"2012",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":16640900794.9
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":731900794.9
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":12213323283.6
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0.0
+            }
+        ],
+        "year":"2002",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":338323283.6
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0.0
+            }
+        ],
+        "year":"2002",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":753768010.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":954798250.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1188024923.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3034582653.0
+            }
+        ],
+        "year":"2005",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1599006846.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3153815173.0
+            }
+        ],
+        "year":"2006",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1803241788.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3566980348.0
+            }
+        ],
+        "year":"2007",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2362223467.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3744155047.0
+            }
+        ],
+        "year":"2008",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3501213152.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3607710304.0
+            }
+        ],
+        "year":"2009",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3676246859.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4292441378.0
+            }
+        ],
+        "year":"2010",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1566909553.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":12597865445.0
+            }
+        ],
+        "year":"2011",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1529320794.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":5367473705.0
+            }
+        ],
+        "year":"2012",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":10973706.76
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":195916539.0
+            }
+        ],
+        "year":"2006",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3520131.52
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":268100082.3
+            }
+        ],
+        "year":"2007",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":4042178.57
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":196214142.3
+            }
+        ],
+        "year":"2008",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":6056423.73
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":234161001.7
+            }
+        ],
+        "year":"2009",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":20633575.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":247834781.8
+            }
+        ],
+        "year":"2010",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1183293262.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1087354649.0
+            }
+        ],
+        "year":"2007",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1908801646.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1422873278.0
+            }
+        ],
+        "year":"2008",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":614882373.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":959863925.4
+            }
+        ],
+        "year":"2009",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1347744000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1223717696.0
+            }
+        ],
+        "year":"2010",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2146562000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1969212006.0
+            }
+        ],
+        "year":"2011",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2109663000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2534500466.0
+            }
+        ],
+        "year":"2012",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":84482680.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3169982041.0
+            }
+        ],
+        "year":"2006",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":121454480.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3766420780.0
+            }
+        ],
+        "year":"2007",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":594748911.3
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4258496138.0
+            }
+        ],
+        "year":"2008",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":284861429.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4474827756.0
+            }
+        ],
+        "year":"2009",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":245231916.4
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4515044397.0
+            }
+        ],
+        "year":"2010",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":389368836.1
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4828345009.0
+            }
+        ],
+        "year":"2011",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":615027475.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":5344654952.0
+            }
+        ],
+        "year":"2012",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":416300000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":516117440.1
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":253718209.6
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":875938726.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2010",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1413126313.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2011",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1505213145.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":6148771542.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3357623304.0
+            }
+        ],
+        "year":"2007",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":9119117112.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":5037369685.0
+            }
+        ],
+        "year":"2008",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":775990000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1842914536.0
+            }
+        ],
+        "year":"2004",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1716414357.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2627711315.0
+            }
+        ],
+        "year":"2005",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1944187567.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2938062591.0
+            }
+        ],
+        "year":"2006",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":27021531.67
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":733960494.9
+            }
+        ],
+        "year":"2004",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":44654643.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1440540674.0
+            }
+        ],
+        "year":"2005",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":66220560.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3653041154.0
+            }
+        ],
+        "year":"2006",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":61767543.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3152379236.0
+            }
+        ],
+        "year":"2007",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":91193482.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4854612248.0
+            }
+        ],
+        "year":"2008",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":111972313.3
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4550655312.0
+            }
+        ],
+        "year":"2009",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":212460480.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":5369015503.0
+            }
+        ],
+        "year":"2010",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":942698326.4
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":6751332632.0
+            }
+        ],
+        "year":"2011",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1112429756.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":7304662138.0
+            }
+        ],
+        "year":"2012",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":37637898629.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":83264551571.0
+            }
+        ],
+        "year":"2013",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1269116733.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":7677374514.0
+            }
+        ],
+        "year":"2013",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":155800631.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4956421194.0
+            }
+        ],
+        "year":"2010",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":224641623.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":6065031628.0
+            }
+        ],
+        "year":"2011",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":138153403.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":388838963.3
+            }
+        ],
+        "year":"2005",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":129435000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":413806918.1
+            }
+        ],
+        "year":"2006",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":171775146.5
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":571797505.1
+            }
+        ],
+        "year":"2007",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":211216758.6
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":628873739.8
+            }
+        ],
+        "year":"2008",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":204355820.1
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":580573793.3
+            }
+        ],
+        "year":"2009",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":218560221.2
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":721854486.0
+            }
+        ],
+        "year":"2010",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":975948622.5
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":804950142.5
+            }
+        ],
+        "year":"2011",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":371466405.8
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":853257802.8
+            }
+        ],
+        "year":"2012",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":24925055610.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":104182000000.0
+            }
+        ],
+        "year":"2009",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":32949795856.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":104592000000.0
+            }
+        ],
+        "year":"2010",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":44779611925.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":109783000000.0
+            }
+        ],
+        "year":"2011",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":41249682457.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":62588142469.0
+            }
+        ],
+        "year":"2009",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":53852645106.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":93185739995.0
+            }
+        ],
+        "year":"2010",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":82986002828.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":113382000000.0
+            }
+        ],
+        "year":"2011",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":94032633453.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":116569000000.0
+            }
+        ],
+        "year":"2012",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2622996991.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":12484378457.0
+            }
+        ],
+        "year":"2005",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":10237431640.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":20780731505.0
+            }
+        ],
+        "year":"2006",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":12635329400.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":23539848091.0
+            }
+        ],
+        "year":"2007",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":21000131830.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":33828783121.0
+            }
+        ],
+        "year":"2008",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":12722411270.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":28308276311.0
+            }
+        ],
+        "year":"2009",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":20754211560.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":41577617280.0
+            }
+        ],
+        "year":"2010",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":28779202170.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":51623200585.0
+            }
+        ],
+        "year":"2011",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":30672394366.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":58692324757.0
+            }
+        ],
+        "year":"2012",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":30773721236.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":65609394030.0
+            }
+        ],
+        "year":"2013",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":30473246.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":29106335.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":455765853.4
+            }
+        ],
+        "year":"2005",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":26120301.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":577376886.2
+            }
+        ],
+        "year":"2006",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":28210188.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":866680881.7
+            }
+        ],
+        "year":"2007",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":72855334.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1156079305.0
+            }
+        ],
+        "year":"2008",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":96148291.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1091893394.0
+            }
+        ],
+        "year":"2009",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":143976791.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1183774883.0
+            }
+        ],
+        "year":"2010",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":246173059.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1637263876.0
+            }
+        ],
+        "year":"2011",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":217306922.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2003404993.0
+            }
+        ],
+        "year":"2012",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":29450878.98
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":82377420.87
+            }
+        ],
+        "year":"2008",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":35425230.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":138282555.2
+            }
+        ],
+        "year":"2009",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":71896113.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":149190100.3
+            }
+        ],
+        "year":"2010",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":102802566.9
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":235906823.4
+            }
+        ],
+        "year":"2011",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":110146657.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":327017375.4
+            }
+        ],
+        "year":"2012",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":48300000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":746261327.5
+            }
+        ],
+        "year":"2007",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":55300000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1451014372.0
+            }
+        ],
+        "year":"2008",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":20900000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1733500763.0
+            }
+        ],
+        "year":"2009",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":160705175.4
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1611720809.0
+            }
+        ],
+        "year":"2010",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":87349503.05
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2077467495.0
+            }
+        ],
+        "year":"2011",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":221333358.8
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1092891957.0
+            }
+        ],
+        "year":"2006",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":283774774.2
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1468092654.0
+            }
+        ],
+        "year":"2007",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":281237313.4
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1910670093.0
+            }
+        ],
+        "year":"2008",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":380403587.3
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1900380236.0
+            }
+        ],
+        "year":"2009",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":346547621.4
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2023903007.0
+            }
+        ],
+        "year":"2010",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":425193486.6
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":5982110584.0
+            }
+        ],
+        "year":"2011",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":481528351.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2205070936.0
+            }
+        ],
+        "year":"2012",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":29636377.09
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":458866825.5
+            }
+        ],
+        "year":"2005",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":280165029.8
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":665969114.3
+            }
+        ],
+        "year":"2006",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":175753291.2
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":986127937.4
+            }
+        ],
+        "year":"2007",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":231365651.6
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1269370080.0
+            }
+        ],
+        "year":"2008",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":191165715.1
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":995102717.9
+            }
+        ],
+        "year":"2009",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":270018613.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":938838184.0
+            }
+        ],
+        "year":"2010",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":448018316.8
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2658426398.0
+            }
+        ],
+        "year":"2011",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":472169395.8
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1107684586.0
+            }
+        ],
+        "year":"2012",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":411987301.6
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1053474412.0
+            }
+        ],
+        "year":"2006",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":640532901.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1302865191.0
+            }
+        ],
+        "year":"2007",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":587942636.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1702828540.0
+            }
+        ],
+        "year":"2008",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":512525992.4
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1384409674.0
+            }
+        ],
+        "year":"2009",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":943183886.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1708074366.0
+            }
+        ],
+        "year":"2010",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1716796513.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2959434599.0
+            }
+        ],
+        "year":"2011",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1180619495.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3916051665.0
+            }
+        ],
+        "year":"2012",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1054895582.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3812737720.0
+            }
+        ],
+        "year":"2013",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":25571802.53
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2484764865.0
+            }
+        ],
+        "year":"2008",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":51049678.18
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2181474967.0
+            }
+        ],
+        "year":"2009",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":71555872.34
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":2045269143.0
+            }
+        ],
+        "year":"2010",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":115116240.3
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3036388748.0
+            }
+        ],
+        "year":"2011",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":14928853.71
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":486253214.5
+            }
+        ],
+        "year":"2005",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":25063833.7
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":546644526.2
+            }
+        ],
+        "year":"2006",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":147175593.6
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":701981249.0
+            }
+        ],
+        "year":"2007",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":418740295.8
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":819474253.0
+            }
+        ],
+        "year":"2008",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":143129703.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":927495409.2
+            }
+        ],
+        "year":"2009",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":109503726.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1039868324.0
+            }
+        ],
+        "year":"2010",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":119279040.3
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3851077797.0
+            }
+        ],
+        "year":"2011",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":344759167.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":1466924348.0
+            }
+        ],
+        "year":"2012",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":8073000000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":8073000000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":15807000000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"*Total",
+        "id":"all"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":15807000000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":15909000000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":11875000000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0.0
+            }
+        ],
+        "year":"2002",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":17091000000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":26596000000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":37761759991.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":47278994323.0
+            }
+        ],
+        "year":"2005",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":45464400000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":66586489392.0
+            }
+        ],
+        "year":"2006",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":43678500000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":54839013133.0
+            }
+        ],
+        "year":"2007",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":59398200000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":66512050485.0
+            }
+        ],
+        "year":"2008",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":30129486000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":59921797862.0
+            }
+        ],
+        "year":"2009",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":44944995000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":133962000000.0
+            }
+        ],
+        "year":"2010",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":68613385930.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":132940000000.0
+            }
+        ],
+        "year":"2011",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":177501338.8
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":124541000000.0
+            }
+        ],
+        "year":"2012",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":71008812000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":250327000000.0
+            }
+        ],
+        "year":"2008",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":42349871975.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":211769000000.0
+            }
+        ],
+        "year":"2009",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":44013892000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":238230000000.0
+            }
+        ],
+        "year":"2010",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":60421715740.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":285645000000.0
+            }
+        ],
+        "year":"2011",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":65229640210.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":287607000000.0
+            }
+        ],
+        "year":"2012",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":884263514.5
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1756747244.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":13895292825.0
+            }
+        ],
+        "year":"2005",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2926435260.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":15629777863.0
+            }
+        ],
+        "year":"2006",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3125388073.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":17716671734.0
+            }
+        ],
+        "year":"2007",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3573697358.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":21446436814.0
+            }
+        ],
+        "year":"2008",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2965369766.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":21299754964.0
+            }
+        ],
+        "year":"2009",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":4358147652.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":27695048562.0
+            }
+        ],
+        "year":"2010",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5884323617.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":34239067345.0
+            }
+        ],
+        "year":"2011",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5480907241.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":40270912993.0
+            }
+        ],
+        "year":"2012",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":802597372.7
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1738493618.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2581804427.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2553350326.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":4645910136.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2343960553.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3195780380.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2010",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5529544307.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2011",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3185676000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3041615000.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":7255694.58
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":263787092.3
+            }
+        ],
+        "year":"2006",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":10201528.67
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":328244808.1
+            }
+        ],
+        "year":"2007",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":4427564.21
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":359631698.4
+            }
+        ],
+        "year":"2008",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5875778.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":386525275.5
+            }
+        ],
+        "year":"2009",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":7586792.57
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":415083678.8
+            }
+        ],
+        "year":"2010",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":27621406.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":440710218.9
+            }
+        ],
+        "year":"2011",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":102252340.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3455659754.0
+            }
+        ],
+        "year":"2009",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":305762430.1
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4184508988.0
+            }
+        ],
+        "year":"2010",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":329804745.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4476644684.0
+            }
+        ],
+        "year":"2011",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":468277747.7
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":6005941670.0
+            }
+        ],
+        "year":"2012",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2509572538.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":61085880.0
+            }
+        ],
+        "year":"2008",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1763889996.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":135019080.0
+            }
+        ],
+        "year":"2009",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2149721568.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":202061560.0
+            }
+        ],
+        "year":"2010",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3453285817.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":331925110.0
+            }
+        ],
+        "year":"2011",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":60128720.45
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":535244177.5
+            }
+        ],
+        "year":"2010",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":31315792.57
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":691784324.9
+            }
+        ],
+        "year":"2011",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":31681601.94
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":725041050.7
+            }
+        ],
+        "year":"2012",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3593984496.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":9055492929.0
+            }
+        ],
+        "year":"2011",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":4668154975.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":6328910588.0
+            }
+        ],
+        "year":"2005",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5122351269.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":6349635178.0
+            }
+        ],
+        "year":"2006",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5331162225.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":7748290810.0
+            }
+        ],
+        "year":"2007",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":7591231594.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":9458393800.0
+            }
+        ],
+        "year":"2008",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3625997931.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":8911173706.0
+            }
+        ],
+        "year":"2009",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5081696110.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":11093488721.0
+            }
+        ],
+        "year":"2010",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5539756725.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":11260873244.0
+            }
+        ],
+        "year":"2011",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":470370875.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4448566646.0
+            }
+        ],
+        "year":"2008",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":533783358.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":3640321344.0
+            }
+        ],
+        "year":"2009",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":757063737.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":4722850614.0
+            }
+        ],
+        "year":"2010",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1588841770.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":10354700333.0
+            }
+        ],
+        "year":"2011",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1537626771.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":5736593767.0
+            }
+        ],
+        "year":"2012",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1498550078.0
+            },
+            {
+                "name":"Total government revenues (US$)",
+                "value":6165045307.0
+            }
+        ],
+        "year":"2013",
+        "name":"Zambia",
+        "id":"ZMB"
+    }
+]
