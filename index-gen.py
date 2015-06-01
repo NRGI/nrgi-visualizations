@@ -1,9 +1,5 @@
 import os.path
 
-# a = "i am a %s %s" % ('sub1', 'sub2')
-
-# print a
-
 root_dir = './'
 template = '''<!DOCTYPE html>
 <html lang="eng">
