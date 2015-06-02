@@ -32,7 +32,7 @@ def main(args):
                 year = row[lkey['Year']]
                 country = row[lkey['Country']]
 
-                if country == "C\x93te d'Ivoire" or country == "C\xd2te d'Ivoire" or country == "C\xf4te d'Ivoire":
+                if country == "C\x93te d'Ivoire" or country == "C\xd2te d'Ivoire" or country == "C\xf4te d'Ivoire" or country == "C\x99te d'Ivoire":
                     country = "Cote d'Ivoire"
                     country_id = 'CIV'
                 elif country == 'Democratic Republic of Congo':
@@ -46,7 +46,7 @@ def main(args):
                 else:
                     country_id = pycountry.countries.get(name=country).alpha3
 
-                resource = float(row[lkey['Total extractive government receipts (US$)']])
+                resource = float(row[lkey['Total extractive government receipts (US$) - EITI']])
                 if row[lkey[comp]] == '' or row[lkey[comp]] == '..' or row[lkey[comp]] == '#N/A':
                     comp_val = 0
                 else:

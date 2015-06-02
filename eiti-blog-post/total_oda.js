@@ -138,7 +138,7 @@ d3.json(datafile, function (error, data) {
         .data(cat_names.slice().reverse())
         .enter().append("g")
         .attr("class", "legend")
-        .attr("transform", function (d, i) { return "translate(-600," + i * 20 + ")"; });
+        .attr("transform", function (d, i) { return "translate(-640," + i * 20 + ")"; });
 
     legend.append("rect")
         .attr("x", width - 18)
