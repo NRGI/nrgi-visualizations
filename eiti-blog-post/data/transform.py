@@ -21,6 +21,9 @@ def main(args):
 
         current_report = 'none'
         json_data = []
+        recorder = {}
+        years = []
+        countries = []
 
         for row in csv_reader:
             if row[0] == current_report:
@@ -49,10 +52,14 @@ def main(args):
                 else:
                     comp_val = float(row[lkey[comp]])
 
-                # if len(args) == 3:
-                #     if args[2] == country_id:
-                #         country = '*' + country
-                #     print args[2]
+                if country_id not in recorder:
+                    recorder[country_id] = [year]
+                elif year not in recorder[country_id]:
+                    recorder[country_id].append(year)
+                if country_id not in countries:
+                    countries.append(country_id)
+                if year not in years:
+                    years.append(year)
 
                 json_data.append({
                     "name": country,
@@ -70,6 +77,39 @@ def main(args):
                     ]
                 })
                 current_report = row[0].strip()
+        # for record in json_data:
+        for year in years:
+            for country_id in countries:
+                if year not in recorder[country_id]:
+                    if country_id == 'CIV':
+                        country = "Cote d'Ivoire"
+                    elif country_id == 'COD':
+                        country = 'Democratic Republic of Congo'
+                    elif country_id == 'KGZ':
+                        country = 'Kyrgyz Republic'
+                    elif country_id == 'COG':
+                        country = 'Republic of the Congo'
+                    elif country_id == 'TZA':
+                        country = 'Tanzania'
+                    else:
+                        country = pycountry.countries.get(alpha3=country_id).name
+
+                    json_data.append({
+                        "name": country,
+                        'id': country_id,
+                        "year": year,
+                        "cats": [
+                            {
+                                "name": "Resource revenues (US$)",
+                                "value": 0
+                            },
+                            {
+                                "name": comp,
+                                "value": 0
+                            }
+                        ]
+
+                        })
 
         # write out archive of update into archive folder
         print_out = open('./' + file_name + '.json', 'w')

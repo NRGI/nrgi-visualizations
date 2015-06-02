@@ -3388,5 +3388,4760 @@
         "year":"2013",
         "name":"Zambia",
         "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2010",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2010",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2010",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2011",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2011",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2011",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Total Government Revenue, IMF data.",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Zambia",
+        "id":"ZMB"
     }
 ]

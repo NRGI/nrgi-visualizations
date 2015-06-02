@@ -1,8 +1,8 @@
 'use strict';
 var d3;
 
-var datafile = "./data/imf_tot_gov_rev.json";
-var country_init = "Cameroon";
+var datafile = "./data/wb_tot_gov_rev.json";
+var country_init = "Afghanistan";
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     // width = parseInt(d3.select('#chart').style('width'), 10),
@@ -138,7 +138,7 @@ d3.json(datafile, function (error, data) {
         .data(cat_names.slice().reverse())
         .enter().append("g")
         .attr("class", "legend")
-        .attr("transform", function (d, i) { return "translate(-600," + i * 20 + ")"; });
+        .attr("transform", function (d, i) { return "translate(-500," + i * 20 + ")"; });
 
     legend.append("rect")
         .attr("x", width - 18)

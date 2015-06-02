@@ -199,6 +199,7 @@ d3.json(datafile, function (error, data) {
 
             var new_data = [];
             var tmp = data.filter(function (d) { return (d.name === value); });
+            console.log(tmp);
             for (var i = 0; i < years.length; i++) {
                 new_data.push({
                     "name": value,
@@ -219,6 +220,7 @@ d3.json(datafile, function (error, data) {
                     }
                 };
             };
+            console.log(new_data);
 
             y.domain([0, d3.max(new_data, function (d) { return d3.max(d.cats, function (d) { return d.value; }); })]);
             

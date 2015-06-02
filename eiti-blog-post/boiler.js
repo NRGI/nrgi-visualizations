@@ -5,7 +5,7 @@ var datafile = "./data/.json";
 var country_init = "";
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = parseInt(d3.select('#chart').style('width'), 10),
+    // width = parseInt(d3.select('#chart').style('width'), 10),
     width = 900 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom;
 
@@ -70,44 +70,35 @@ function d3_format_precision(x, p) {
 // d3.csv(datafile, function (error, data) {
 d3.json(datafile, function (error, data) {
 
-    var groupSpacing = 0;
+    var groupSpacing = 0,
+        opts = [],
+        years = [],
+        cat_names = [];
 
     data.sort(function (a, b) {
         return a.year - b.year;
     });
 
-    var opts = [];
-
-    for (var i = 0; i < data.length; i++) {
-        if (opts.indexOf(data[i]['name']) < 0) {
-            opts.push(data[i]['name']);
+    data.forEach(function (el) {
+        if (opts.indexOf(el.name) < 0) {
+            opts.push(el.name);
         }
-    };
+        if (years.indexOf(el.year) < 0) {
+            years.push(el.year);
+        }
+    });
     opts.sort();
+    years.sort();
 
-    // opts[0] = country_init;
+    data[0].cats.forEach(function (el) {
+        cat_names.push(el.name);
+    });
 
-    var total = data.filter(function (d) { return (d.name === country_init); });
-
-    var years = [];
-
-    for (var i = 0; i < total.length; i++) {
-        years.push(total[i].year);
-    };
-
-    var get_cats = function (record) {
-        var cats = [];
-        for (var i = 0; i < record.length; i++) {
-            cats.push(record[i]['name']);
-        }
-        return cats;
-    };
-
-    var catNames = get_cats(data[0]['cats']);
+    var data_init = data.filter(function (d) { return (d.name === country_init); });
 
     x0.domain(years.map(function (d) { return d; }));
-    x1.domain(catNames).rangeRoundBands([0, x0.rangeBand()]);
-    y.domain([0, d3.max(total, function (d) { return d3.max(d.cats, function (d) { return d.value; }); })]);
+    x1.domain(cat_names).rangeRoundBands([0, x0.rangeBand()]);
+    y.domain([0, d3.max(data_init, function (d) { return d3.max(d.cats, function (d) { return d.value; }); })]);
     var svg = d3.select("body").append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
@@ -126,6 +117,7 @@ d3.json(datafile, function (error, data) {
         .enter().append("g")
         .filter(function (d) { return (d.name === country_init); })
         .attr("class", "g")
+        .attr("name", function (d) { return d.year; })
         .attr("transform", function (d) { return "translate(" + x0(d.year) + ",0)"; });
 
     year.selectAll("rect")
@@ -143,7 +135,7 @@ d3.json(datafile, function (error, data) {
         .text(country_init);
 
     var legend = svg.selectAll(".legend")
-        .data(catNames.slice().reverse())
+        .data(cat_names.slice().reverse())
         .enter().append("g")
         .attr("class", "legend")
         .attr("transform", function (d, i) { return "translate(-600," + i * 20 + ")"; });
@@ -177,7 +169,6 @@ d3.json(datafile, function (error, data) {
         .attr("dy", ".71em")
         .style("text-anchor", "end")
         .text("$ USD");
-    
 
     var dropdown = d3.select("#dropdown").append("select")
         .attr("class", "form-control")
@@ -187,36 +178,11 @@ d3.json(datafile, function (error, data) {
             d3.select("#chart_title")
                 .text(value);
 
-            // if (value === 'Total') {
-            //     value = '*Total';
-            // }
+            var new_data = data.filter(function (d) { return (d.name === value); });
 
-            var new_data = [];
-            var tmp = data.filter(function (d) { return (d.name === value); });
-            for (var i = 0; i < years.length; i++) {
-                new_data.push({
-                    "name": value,
-                    "year": years[i],
-                    "cats": [
-                        {"name": catNames[0], "value": 0},
-                        {"name": catNames[1], "value": 0},
-                        // {"name": catNames[2], "value": 0}
-                    ] 
-                });
-            };
-            for (var i = 0; i < new_data.length; i++) {
-                for (var j = 0; j < tmp.length; j++) {
-                    if (new_data[i]["year"] === tmp[j]["year"]) {
-                        new_data[i]["cats"][0]["value"] = tmp[j]["cats"][0]["value"];
-                        new_data[i]["cats"][1]["value"] = tmp[j]["cats"][1]["value"];
-                        // new_data[i]["cats"][2]["value"] = tmp[j]["cats"][2]["value"];
-                    }
-                };
-            };
+            year.data(new_data);
 
             y.domain([0, d3.max(new_data, function (d) { return d3.max(d.cats, function (d) { return d.value; }); })]);
-            
-            year.data(new_data);
 
             year.selectAll("rect")
                 .data(function (d) { return d.cats; })
@@ -237,7 +203,7 @@ d3.json(datafile, function (error, data) {
             .data(opts)
             .enter()
             .append("option")
-            .property("selected", function(d){ return d === country_init; });
+            .property("selected", function (d) { return d === country_init; });
 
     options.text(function (d) { return d; })
          .attr("value", function (d) { return d; });

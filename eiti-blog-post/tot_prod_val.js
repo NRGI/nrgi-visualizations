@@ -1,8 +1,8 @@
 'use strict';
 var d3;
 
-var datafile = "./data/imf_tot_gov_rev.json";
-var country_init = "Cameroon";
+var datafile = "./data/tot_prod_val.json";
+var country_init = "Nigeria";
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     // width = parseInt(d3.select('#chart').style('width'), 10),
