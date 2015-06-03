@@ -186,7 +186,7 @@ d3.json(datafile, function (error, data) {
 
             year.selectAll("rect")
                 .data(function (d) { return d.cats; })
-                .transition()
+                .transition('barchange')
                 .duration(1000)
                 .attr("x", function (d) { return x1(d.name); })
                 .attr("y", function (d) { return y(d.value); })
@@ -215,7 +215,7 @@ function mouseover(d) {
     var hover_element = this;
 
     d3.select('.tooltip')
-        .transition()
+        .transition('tooltip')
         .duration(500)
         .style("opacity", 0.8);
 

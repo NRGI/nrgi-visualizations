@@ -223,7 +223,7 @@ function mouseover(d) {
     var payments = numberWithCommas(d.value) + ' Million NOK';
 
     d3.select('.tooltip')
-        .transition()
+        .transition('tooltip')
         .duration(200)
         .style("opacity", .8);
     d3.select('.tooltip')

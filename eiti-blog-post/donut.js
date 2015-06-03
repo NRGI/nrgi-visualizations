@@ -149,7 +149,7 @@ function mouseover(d) {
     var revenue = numberWithCommas(d.value);
 
     d3.select('.tooltip')
-        .transition()
+        .transition('tooltip')
         .duration(200)
         .style("opacity", .8);
     d3.select('.tooltip')

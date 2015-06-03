@@ -178,6 +178,9 @@ d3.json(datafile, function (error, data) {
             d3.select("#chart_title")
                 .text(value);
 
+            // year.selectAll("rect")
+            //     .attr("pointer-events", none);
+
             var new_data = data.filter(function (d) { return (d.name === value); });
 
             year.data(new_data);
@@ -186,7 +189,7 @@ d3.json(datafile, function (error, data) {
 
             year.selectAll("rect")
                 .data(function (d) { return d.cats; })
-                .transition()
+                .transition('barchange')
                 .duration(1000)
                 .attr("x", function (d) { return x1(d.name); })
                 .attr("y", function (d) { return y(d.value); })
@@ -226,10 +229,10 @@ function mouseover(d) {
         .style("top", (d3.event.pageY - 28) + "px");
 
     d3.selectAll('rect')
-        .filter(function(d,i) {
+        .filter(function (d, i) {
             return (this !== hover_element);
         })
-        .transition()
+        .transition('mouseover')
         .duration(500)
         .style('opacity','0.5');
 
