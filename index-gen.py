@@ -65,7 +65,6 @@ def main():
                             soup = BeautifulSoup(html_doc)
                             file_li = file_li + '<li><a href="./' + end_point + '">' + soup.title.string.title() + '</a></li>'
                         else:
-                            print html_doc
                             soup = BeautifulSoup(html_doc)
                             file_li = file_li + '<li><a href="./' + end_point + '">' + soup.title.string.title() + '</a></li>\n      '
             replacements = ('..', '..', file_li)
