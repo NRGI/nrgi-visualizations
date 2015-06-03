@@ -57,7 +57,7 @@ def main():
             print 'index for ', source_dir
             file_li = ''
             for index, end_point in enumerate(file_list):
-                if end_point == 'index.html' or end_point == 'boiler.html' or '.js' in end_point or 'Ds_Store' in end_point or 'DS_Store' in end_point:
+                if end_point == 'index.html' or end_point == 'boiler.html' or '.js' in end_point or 'Ds_Store' in end_point or 'DS_Store' in end_point or '.html' not in end_point:
                     pass
                 else:
                     with open(source_dir + '/' + end_point, 'r') as html_doc:
@@ -65,6 +65,7 @@ def main():
                             soup = BeautifulSoup(html_doc)
                             file_li = file_li + '<li><a href="./' + end_point + '">' + soup.title.string.title() + '</a></li>'
                         else:
+                            print html_doc
                             soup = BeautifulSoup(html_doc)
                             file_li = file_li + '<li><a href="./' + end_point + '">' + soup.title.string.title() + '</a></li>\n      '
             replacements = ('..', '..', file_li)
