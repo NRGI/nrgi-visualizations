@@ -2,7 +2,7 @@
 var d3;
 
 var datafile = "./data/imf_tot_gov_rev.json";
-var country_init = "Cameroon";
+var country_init = "Guinea";
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     // width = parseInt(d3.select('#chart').style('width'), 10),

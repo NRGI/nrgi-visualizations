@@ -2,7 +2,7 @@
 var d3;
 
 var datafile = "./data/tot_prod_val.json";
-var country_init = "Nigeria";
+var country_init = "Peru";
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     // width = parseInt(d3.select('#chart').style('width'), 10),

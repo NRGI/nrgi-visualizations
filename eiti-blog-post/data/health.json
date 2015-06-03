@@ -1,0 +1,8147 @@
+[
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":89690970.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":189434919.3
+            }
+        ],
+        "year":"2008",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":7788994.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":229795065.1
+            }
+        ],
+        "year":"2009",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":23383829.47
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":287745579.0
+            }
+        ],
+        "year":"2010",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":101776402.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":286386916.3
+            }
+        ],
+        "year":"2011",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":33298711.2
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":340049308.2
+            }
+        ],
+        "year":"2009",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":62819643.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":299570712.7
+            }
+        ],
+        "year":"2010",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":87672150.57
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":372544344.8
+            }
+        ],
+        "year":"2011",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":92136623.82
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":350975090.9
+            }
+        ],
+        "year":"2012",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":622338949.8
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":60365428.59
+            }
+        ],
+        "year":"2003",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1099837402.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":89293824.99
+            }
+        ],
+        "year":"2004",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1475500562.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":116670316.1
+            }
+        ],
+        "year":"2005",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3510790700.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":181325501.9
+            }
+        ],
+        "year":"2006",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5563486878.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":323977276.9
+            }
+        ],
+        "year":"2007",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":19134087707.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":402874451.5
+            }
+        ],
+        "year":"2008",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":14160319906.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":593049645.6
+            }
+        ],
+        "year":"2009",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":19732689646.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":617914538.4
+            }
+        ],
+        "year":"2010",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":23901723060.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":712928960.4
+            }
+        ],
+        "year":"2011",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":21826952016.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":843595977.6
+            }
+        ],
+        "year":"2012",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3746160.964
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":422968823.8
+            }
+        ],
+        "year":"2008",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":22698094.71
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":300129643.4
+            }
+        ],
+        "year":"2009",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":47170416.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":375387427.5
+            }
+        ],
+        "year":"2010",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":236414921.9
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":327744892.2
+            }
+        ],
+        "year":"2011",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":366304044.3
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":359497143.8
+            }
+        ],
+        "year":"2012",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":731900794.9
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":108777000.6
+            }
+        ],
+        "year":"2001",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":338323283.6
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":140390779.5
+            }
+        ],
+        "year":"2002",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":753768010.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":181403561.1
+            }
+        ],
+        "year":"2003",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":954798250.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":178204472.0
+            }
+        ],
+        "year":"2004",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1188024923.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":185796424.4
+            }
+        ],
+        "year":"2005",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1599006846.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":193191173.5
+            }
+        ],
+        "year":"2006",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1803241788.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":217757150.6
+            }
+        ],
+        "year":"2007",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2362223467.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":240456448.2
+            }
+        ],
+        "year":"2008",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3501213152.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":316140654.2
+            }
+        ],
+        "year":"2009",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3676246859.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":374092359.9
+            }
+        ],
+        "year":"2010",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1566015122.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":494280408.3
+            }
+        ],
+        "year":"2011",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1529320794.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":455156065.5
+            }
+        ],
+        "year":"2012",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":10973706.76
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":29090655.02
+            }
+        ],
+        "year":"2006",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3520131.524
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":39171463.77
+            }
+        ],
+        "year":"2007",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":4042178.571
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":45524277.6
+            }
+        ],
+        "year":"2008",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":6056423.729
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":29669616.61
+            }
+        ],
+        "year":"2009",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":20633575.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":38569996.29
+            }
+        ],
+        "year":"2010",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1183293262.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":84344762.1
+            }
+        ],
+        "year":"2007",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1908801646.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":79726161.24
+            }
+        ],
+        "year":"2008",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":614882373.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":89269753.82
+            }
+        ],
+        "year":"2009",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1347744000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":106151078.1
+            }
+        ],
+        "year":"2010",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2146562000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":102177644.9
+            }
+        ],
+        "year":"2011",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2109663000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":113222224.5
+            }
+        ],
+        "year":"2012",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":84482680.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":247844833.6
+            }
+        ],
+        "year":"2006",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":121454480.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":298592833.5
+            }
+        ],
+        "year":"2007",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":594748911.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":383129025.4
+            }
+        ],
+        "year":"2008",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":284861429.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":434038096.4
+            }
+        ],
+        "year":"2009",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":245231916.4
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":452842356.4
+            }
+        ],
+        "year":"2010",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":389368836.1
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":421738112.8
+            }
+        ],
+        "year":"2011",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":615027475.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":526142535.4
+            }
+        ],
+        "year":"2012",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":416300000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":323415977.3
+            }
+        ],
+        "year":"2007",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":516117440.1
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":663436523.9
+            }
+        ],
+        "year":"2008",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":253718209.6
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":703427914.6
+            }
+        ],
+        "year":"2009",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":875938726.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":688338743.7
+            }
+        ],
+        "year":"2010",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1413126313.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":796612758.9
+            }
+        ],
+        "year":"2011",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1505213145.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":840706457.3
+            }
+        ],
+        "year":"2012",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":6148771542.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":165581156.9
+            }
+        ],
+        "year":"2007",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":9119117112.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":276529084.1
+            }
+        ],
+        "year":"2008",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":775990000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":105268417.4
+            }
+        ],
+        "year":"2004",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1716414357.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":105109156.7
+            }
+        ],
+        "year":"2005",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1944187567.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":125012965.8
+            }
+        ],
+        "year":"2006",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":27021531.67
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":337329001.1
+            }
+        ],
+        "year":"2004",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":44654643.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":499777832.4
+            }
+        ],
+        "year":"2005",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":66220560.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":625449657.3
+            }
+        ],
+        "year":"2006",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":61767543.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":928357363.5
+            }
+        ],
+        "year":"2007",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":91193482.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":925187726.5
+            }
+        ],
+        "year":"2008",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":111972313.3
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":767847132.1
+            }
+        ],
+        "year":"2009",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":212460480.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":996447511.7
+            }
+        ],
+        "year":"2010",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":942698326.4
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":1164956933.0
+            }
+        ],
+        "year":"2011",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1112429756.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":1233652658.0
+            }
+        ],
+        "year":"2012",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1269116733.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":155800631.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":987805456.8
+            }
+        ],
+        "year":"2010",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":224641623.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":1135606321.0
+            }
+        ],
+        "year":"2011",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":138153403.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":27882061.65
+            }
+        ],
+        "year":"2005",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":129435000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":26609495.71
+            }
+        ],
+        "year":"2006",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":171775146.5
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":46832884.38
+            }
+        ],
+        "year":"2007",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":211216758.6
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":59843634.86
+            }
+        ],
+        "year":"2008",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":204355820.1
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":80530706.5
+            }
+        ],
+        "year":"2009",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":218560221.1
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":95276499.02
+            }
+        ],
+        "year":"2010",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":975948622.5
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":73686395.38
+            }
+        ],
+        "year":"2011",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":371466405.8
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":100141035.0
+            }
+        ],
+        "year":"2012",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":24925055610.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":5501284286.0
+            }
+        ],
+        "year":"2009",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":24925055610.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":5501284286.0
+            }
+        ],
+        "year":"2010",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":24925055610.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":5501284286.0
+            }
+        ],
+        "year":"2011",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":41249682457.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":3855740296.0
+            }
+        ],
+        "year":"2009",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":53852645106.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":3203139504.0
+            }
+        ],
+        "year":"2010",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":82986002828.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":3813283816.0
+            }
+        ],
+        "year":"2011",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":94032633453.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":4151822389.0
+            }
+        ],
+        "year":"2012",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2622996991.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":1440397256.0
+            }
+        ],
+        "year":"2005",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":10237431640.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":1867722009.0
+            }
+        ],
+        "year":"2006",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":12635329400.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":1870660974.0
+            }
+        ],
+        "year":"2007",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":21000131830.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":3019222111.0
+            }
+        ],
+        "year":"2008",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":12722411270.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":3056970088.0
+            }
+        ],
+        "year":"2009",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":20754211560.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":3741479420.0
+            }
+        ],
+        "year":"2010",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":28779202170.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":4271631310.0
+            }
+        ],
+        "year":"2011",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":30672394366.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":4921958462.0
+            }
+        ],
+        "year":"2012",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":30773721236.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":30473246.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":50316370.62
+            }
+        ],
+        "year":"2004",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":29106335.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":58559772.81
+            }
+        ],
+        "year":"2005",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":26120301.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":92875636.18
+            }
+        ],
+        "year":"2006",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":28210188.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":134230601.9
+            }
+        ],
+        "year":"2007",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":72855334.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":160794564.3
+            }
+        ],
+        "year":"2008",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":96148291.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":177535392.1
+            }
+        ],
+        "year":"2009",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":143976791.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":177877420.7
+            }
+        ],
+        "year":"2010",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":246173059.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":229384875.4
+            }
+        ],
+        "year":"2011",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":217306922.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":282814334.3
+            }
+        ],
+        "year":"2012",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":29450878.98
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":33170736.06
+            }
+        ],
+        "year":"2008",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":35425230.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":38530538.28
+            }
+        ],
+        "year":"2009",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":71896113.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":30796614.62
+            }
+        ],
+        "year":"2010",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":102802566.9
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":71219014.99
+            }
+        ],
+        "year":"2011",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":110146657.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":80238357.28
+            }
+        ],
+        "year":"2012",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":48300000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":201183507.6
+            }
+        ],
+        "year":"2007",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":55300000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":209213160.1
+            }
+        ],
+        "year":"2008",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":20900000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":188072671.5
+            }
+        ],
+        "year":"2009",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":160705175.4
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":194738078.6
+            }
+        ],
+        "year":"2010",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":87349503.05
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":227208126.0
+            }
+        ],
+        "year":"2011",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":221333358.8
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":194058637.7
+            }
+        ],
+        "year":"2006",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":283774774.2
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":241248958.4
+            }
+        ],
+        "year":"2007",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":281237313.4
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":273988267.7
+            }
+        ],
+        "year":"2008",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":380403587.3
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":282290781.8
+            }
+        ],
+        "year":"2009",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":346547621.4
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":264133486.9
+            }
+        ],
+        "year":"2010",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":425193486.6
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":316200188.1
+            }
+        ],
+        "year":"2011",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":481528351.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":234658048.8
+            }
+        ],
+        "year":"2012",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":29636377.09
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":58743777.63
+            }
+        ],
+        "year":"2005",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":280165029.8
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":58574842.38
+            }
+        ],
+        "year":"2006",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":175753291.2
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":71804810.57
+            }
+        ],
+        "year":"2007",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":231365651.6
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":80324653.3
+            }
+        ],
+        "year":"2008",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":191165715.1
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":102072593.4
+            }
+        ],
+        "year":"2009",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":270018613.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":137325167.0
+            }
+        ],
+        "year":"2010",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":448018316.8
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":159006020.9
+            }
+        ],
+        "year":"2011",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":472169395.8
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":161654894.7
+            }
+        ],
+        "year":"2012",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":411987301.6
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":106744257.0
+            }
+        ],
+        "year":"2006",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":411987301.6
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":106744257.0
+            }
+        ],
+        "year":"2006",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":640532901.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":143276744.4
+            }
+        ],
+        "year":"2007",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":587942636.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":221131755.0
+            }
+        ],
+        "year":"2008",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":512525992.4
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":178420573.1
+            }
+        ],
+        "year":"2009",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":943183886.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":241576891.9
+            }
+        ],
+        "year":"2010",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1716796513.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":330918657.0
+            }
+        ],
+        "year":"2011",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1180619495.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":409409481.9
+            }
+        ],
+        "year":"2012",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1054895582.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":25571802.53
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":321120231.2
+            }
+        ],
+        "year":"2008",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":51049678.18
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":298920331.5
+            }
+        ],
+        "year":"2009",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":71555872.34
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":334744378.5
+            }
+        ],
+        "year":"2010",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":115116240.3
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":370573742.2
+            }
+        ],
+        "year":"2011",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":14928853.71
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":101422221.8
+            }
+        ],
+        "year":"2005",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":25063833.7
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":115801618.3
+            }
+        ],
+        "year":"2006",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":147175593.5
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":114273315.5
+            }
+        ],
+        "year":"2007",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":418740295.8
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":145667807.7
+            }
+        ],
+        "year":"2008",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":143129702.9
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":145131603.4
+            }
+        ],
+        "year":"2009",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":109503726.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":133862208.8
+            }
+        ],
+        "year":"2010",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":119279040.3
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":145545164.8
+            }
+        ],
+        "year":"2011",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":344759167.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":188087154.5
+            }
+        ],
+        "year":"2012",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":8073000000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":585266591.6
+            }
+        ],
+        "year":"1999",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":15807000000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":714280055.6
+            }
+        ],
+        "year":"2000",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":15909000000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":664219754.4
+            }
+        ],
+        "year":"2001",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":11875000000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":591300041.3
+            }
+        ],
+        "year":"2002",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":17091000000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":1143648634.0
+            }
+        ],
+        "year":"2003",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":26596000000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":1998494598.0
+            }
+        ],
+        "year":"2004",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":37761759991.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":2161857644.0
+            }
+        ],
+        "year":"2005",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":45464400000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":2816888430.0
+            }
+        ],
+        "year":"2006",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":43678500000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":3954556098.0
+            }
+        ],
+        "year":"2007",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":59398200000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":4941064044.0
+            }
+        ],
+        "year":"2008",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":30129486000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":3628876757.0
+            }
+        ],
+        "year":"2009",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":44944995000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":5412712704.0
+            }
+        ],
+        "year":"2010",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":68613385930.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":8001943177.0
+            }
+        ],
+        "year":"2011",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":177501338.8
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":8746452937.0
+            }
+        ],
+        "year":"2012",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":71008812.23
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":34557446809.0
+            }
+        ],
+        "year":"2008",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":42349871975.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":32288841770.0
+            }
+        ],
+        "year":"2009",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":44013892000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":35860162691.0
+            }
+        ],
+        "year":"2010",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":60421715740.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":41517753886.0
+            }
+        ],
+        "year":"2011",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":65229640210.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":38328478101.0
+            }
+        ],
+        "year":"2012",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":884263514.5
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":1713577470.0
+            }
+        ],
+        "year":"2004",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1756747244.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":1986629106.0
+            }
+        ],
+        "year":"2005",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2926435260.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":2237979848.0
+            }
+        ],
+        "year":"2006",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3125388073.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":3038714474.0
+            }
+        ],
+        "year":"2007",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3573697358.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":4354464168.0
+            }
+        ],
+        "year":"2008",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2965369766.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":3736086215.0
+            }
+        ],
+        "year":"2009",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":4358147652.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":4074433641.0
+            }
+        ],
+        "year":"2010",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5884323617.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":4603592065.0
+            }
+        ],
+        "year":"2011",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5480907241.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":5752929763.0
+            }
+        ],
+        "year":"2012",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":802597372.7
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":63671111.85
+            }
+        ],
+        "year":"2004",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1738493618.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":87324658.33
+            }
+        ],
+        "year":"2005",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2581804427.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":115507574.9
+            }
+        ],
+        "year":"2006",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2553350326.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":129762085.3
+            }
+        ],
+        "year":"2007",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":4645910136.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":146884916.8
+            }
+        ],
+        "year":"2008",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2343960553.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":109475859.4
+            }
+        ],
+        "year":"2009",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3195780380.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":166498739.9
+            }
+        ],
+        "year":"2010",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5529544307.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":243013781.2
+            }
+        ],
+        "year":"2011",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3185676000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":319823669.8
+            }
+        ],
+        "year":"2012",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3041615000.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":7255694.576
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":36746247.21
+            }
+        ],
+        "year":"2006",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":10201528.67
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":35093393.82
+            }
+        ],
+        "year":"2007",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":4427564.211
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":44021728.53
+            }
+        ],
+        "year":"2008",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5875777.998
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":53337976.13
+            }
+        ],
+        "year":"2009",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":7586792.565
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":61032687.13
+            }
+        ],
+        "year":"2010",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":27621406.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":77258184.21
+            }
+        ],
+        "year":"2011",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":102252340.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":780646026.3
+            }
+        ],
+        "year":"2009",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":305762430.1
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":645534737.7
+            }
+        ],
+        "year":"2010",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":329804745.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":658624559.5
+            }
+        ],
+        "year":"2011",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":468277747.7
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":776925028.2
+            }
+        ],
+        "year":"2012",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2509572538.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":50000279.16
+            }
+        ],
+        "year":"2008",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1763889996.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":44470511.36
+            }
+        ],
+        "year":"2009",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":2149721568.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":40067756.83
+            }
+        ],
+        "year":"2010",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3453285817.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":39318381.3
+            }
+        ],
+        "year":"2011",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":60128720.45
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":108631660.3
+            }
+        ],
+        "year":"2010",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":31315792.57
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":157175115.0
+            }
+        ],
+        "year":"2011",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":60128720.45
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":108631660.3
+            }
+        ],
+        "year":"2010",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":31315792.57
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":157175115.0
+            }
+        ],
+        "year":"2011",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":31681601.94
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":173918216.5
+            }
+        ],
+        "year":"2012",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3593984496.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":618495813.7
+            }
+        ],
+        "year":"2011",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":4668154975.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":259870834.7
+            }
+        ],
+        "year":"2005",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5122351269.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":290347915.1
+            }
+        ],
+        "year":"2006",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5331162225.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":374966719.7
+            }
+        ],
+        "year":"2007",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":7591231594.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":475721803.5
+            }
+        ],
+        "year":"2008",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":3625997931.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":372119535.4
+            }
+        ],
+        "year":"2009",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5081696110.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":409024286.5
+            }
+        ],
+        "year":"2010",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":5539756725.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":390012124.3
+            }
+        ],
+        "year":"2011",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":470370875.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":641361457.0
+            }
+        ],
+        "year":"2008",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":533783358.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":545729915.2
+            }
+        ],
+        "year":"2009",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":757063737.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":753535811.6
+            }
+        ],
+        "year":"2010",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1588841770.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":930861126.4
+            }
+        ],
+        "year":"2011",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1537626771.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":1046243868.0
+            }
+        ],
+        "year":"2012",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":1498550078.0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2008",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2009",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2010",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2010",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2010",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2011",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2011",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2011",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2012",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2003",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2004",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2005",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2006",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2007",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2001",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2002",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Nigeria",
+        "id":"NGA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2013",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"1999",
+        "name":"Zambia",
+        "id":"ZMB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Afghanistan",
+        "id":"AFG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Albania",
+        "id":"ALB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Azerbaijan",
+        "id":"AZE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Burkina Faso",
+        "id":"BFA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Cameroon",
+        "id":"CMR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Central African Republic",
+        "id":"CAF"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Chad",
+        "id":"TCD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Cote d'Ivoire",
+        "id":"CIV"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Democratic Republic of Congo",
+        "id":"COD"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Equatorial Guinea",
+        "id":"GNQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Gabon",
+        "id":"GAB"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Ghana",
+        "id":"GHA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Guatemala",
+        "id":"GTM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Guinea",
+        "id":"GIN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Indonesia",
+        "id":"IDN"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Iraq",
+        "id":"IRQ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Kazakhstan",
+        "id":"KAZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Kyrgyz Republic",
+        "id":"KGZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Liberia",
+        "id":"LBR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Madagascar",
+        "id":"MDG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Mali",
+        "id":"MLI"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Mauritania",
+        "id":"MRT"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Mongolia",
+        "id":"MNG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Mozambique",
+        "id":"MOZ"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Niger",
+        "id":"NER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Norway",
+        "id":"NOR"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Peru",
+        "id":"PER"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Republic of the Congo",
+        "id":"COG"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Sierra Leone",
+        "id":"SLE"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Tanzania",
+        "id":"TZA"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Timor-Leste",
+        "id":"TLS"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Togo",
+        "id":"TGO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Trinidad and Tobago",
+        "id":"TTO"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Yemen",
+        "id":"YEM"
+    },
+    {
+        "cats":[
+            {
+                "name":"Resource revenues (US$)",
+                "value":0
+            },
+            {
+                "name":"Health expenditure (US$) - WB",
+                "value":0
+            }
+        ],
+        "year":"2000",
+        "name":"Zambia",
+        "id":"ZMB"
+    }
+]
