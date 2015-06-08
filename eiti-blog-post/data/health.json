@@ -2,11 +2,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":89690970.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":189434919.3
             }
         ],
@@ -17,11 +17,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":7788994.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":229795065.1
             }
         ],
@@ -32,11 +32,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":23383829.47
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":287745579.0
             }
         ],
@@ -47,11 +47,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":101776402.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":286386916.3
             }
         ],
@@ -62,11 +62,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":33298711.2
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":340049308.2
             }
         ],
@@ -77,11 +77,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":62819643.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":299570712.7
             }
         ],
@@ -92,11 +92,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":87672150.57
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":372544344.8
             }
         ],
@@ -107,11 +107,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":92136623.82
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":350975090.9
             }
         ],
@@ -122,11 +122,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":622338949.8
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":60365428.59
             }
         ],
@@ -137,11 +137,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1099837402.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":89293824.99
             }
         ],
@@ -152,11 +152,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1475500562.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":116670316.1
             }
         ],
@@ -167,11 +167,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3510790700.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":181325501.9
             }
         ],
@@ -182,11 +182,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":5563486878.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":323977276.9
             }
         ],
@@ -197,11 +197,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":19134087707.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":402874451.5
             }
         ],
@@ -212,11 +212,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":14160319906.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":593049645.6
             }
         ],
@@ -227,11 +227,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":19732689646.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":617914538.4
             }
         ],
@@ -242,11 +242,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":23901723060.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":712928960.4
             }
         ],
@@ -257,11 +257,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":21826952016.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":843595977.6
             }
         ],
@@ -272,11 +272,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3746160.964
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":422968823.8
             }
         ],
@@ -287,11 +287,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":22698094.71
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":300129643.4
             }
         ],
@@ -302,11 +302,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":47170416.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":375387427.5
             }
         ],
@@ -317,11 +317,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":236414921.9
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":327744892.2
             }
         ],
@@ -332,11 +332,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":366304044.3
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":359497143.8
             }
         ],
@@ -347,11 +347,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":731900794.9
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":108777000.6
             }
         ],
@@ -362,11 +362,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":338323283.6
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":140390779.5
             }
         ],
@@ -377,11 +377,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":753768010.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":181403561.1
             }
         ],
@@ -392,11 +392,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":954798250.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":178204472.0
             }
         ],
@@ -407,11 +407,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1188024923.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":185796424.4
             }
         ],
@@ -422,11 +422,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1599006846.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":193191173.5
             }
         ],
@@ -437,11 +437,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1803241788.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":217757150.6
             }
         ],
@@ -452,11 +452,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":2362223467.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":240456448.2
             }
         ],
@@ -467,11 +467,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3501213152.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":316140654.2
             }
         ],
@@ -482,11 +482,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3676246859.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":374092359.9
             }
         ],
@@ -497,11 +497,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1566015122.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":494280408.3
             }
         ],
@@ -512,11 +512,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1529320794.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":455156065.5
             }
         ],
@@ -527,11 +527,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":10973706.76
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":29090655.02
             }
         ],
@@ -542,11 +542,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3520131.524
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":39171463.77
             }
         ],
@@ -557,11 +557,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":4042178.571
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":45524277.6
             }
         ],
@@ -572,11 +572,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":6056423.729
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":29669616.61
             }
         ],
@@ -587,11 +587,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":20633575.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":38569996.29
             }
         ],
@@ -602,11 +602,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1183293262.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":84344762.1
             }
         ],
@@ -617,11 +617,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1908801646.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":79726161.24
             }
         ],
@@ -632,11 +632,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":614882373.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":89269753.82
             }
         ],
@@ -647,11 +647,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1347744000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":106151078.1
             }
         ],
@@ -662,11 +662,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":2146562000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":102177644.9
             }
         ],
@@ -677,11 +677,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":2109663000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":113222224.5
             }
         ],
@@ -692,11 +692,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":84482680.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":247844833.6
             }
         ],
@@ -707,11 +707,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":121454480.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":298592833.5
             }
         ],
@@ -722,11 +722,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":594748911.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":383129025.4
             }
         ],
@@ -737,11 +737,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":284861429.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":434038096.4
             }
         ],
@@ -752,11 +752,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":245231916.4
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":452842356.4
             }
         ],
@@ -767,11 +767,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":389368836.1
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":421738112.8
             }
         ],
@@ -782,11 +782,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":615027475.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":526142535.4
             }
         ],
@@ -797,11 +797,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":416300000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":323415977.3
             }
         ],
@@ -812,11 +812,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":516117440.1
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":663436523.9
             }
         ],
@@ -827,11 +827,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":253718209.6
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":703427914.6
             }
         ],
@@ -842,11 +842,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":875938726.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":688338743.7
             }
         ],
@@ -857,11 +857,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1413126313.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":796612758.9
             }
         ],
@@ -872,11 +872,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1505213145.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":840706457.3
             }
         ],
@@ -887,11 +887,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":6148771542.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":165581156.9
             }
         ],
@@ -902,11 +902,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":9119117112.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":276529084.1
             }
         ],
@@ -917,11 +917,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":775990000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":105268417.4
             }
         ],
@@ -932,11 +932,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1716414357.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":105109156.7
             }
         ],
@@ -947,11 +947,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1944187567.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":125012965.8
             }
         ],
@@ -962,11 +962,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":27021531.67
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":337329001.1
             }
         ],
@@ -977,11 +977,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":44654643.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":499777832.4
             }
         ],
@@ -992,11 +992,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":66220560.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":625449657.3
             }
         ],
@@ -1007,11 +1007,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":61767543.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":928357363.5
             }
         ],
@@ -1022,11 +1022,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":91193482.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":925187726.5
             }
         ],
@@ -1037,11 +1037,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":111972313.3
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":767847132.1
             }
         ],
@@ -1052,11 +1052,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":212460480.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":996447511.7
             }
         ],
@@ -1067,11 +1067,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":942698326.4
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":1164956933.0
             }
         ],
@@ -1082,11 +1082,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1112429756.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":1233652658.0
             }
         ],
@@ -1097,11 +1097,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1269116733.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -1112,11 +1112,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":155800631.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":987805456.8
             }
         ],
@@ -1127,11 +1127,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":224641623.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":1135606321.0
             }
         ],
@@ -1142,11 +1142,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":138153403.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":27882061.65
             }
         ],
@@ -1157,11 +1157,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":129435000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":26609495.71
             }
         ],
@@ -1172,11 +1172,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":171775146.5
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":46832884.38
             }
         ],
@@ -1187,11 +1187,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":211216758.6
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":59843634.86
             }
         ],
@@ -1202,11 +1202,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":204355820.1
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":80530706.5
             }
         ],
@@ -1217,11 +1217,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":218560221.1
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":95276499.02
             }
         ],
@@ -1232,11 +1232,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":975948622.5
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":73686395.38
             }
         ],
@@ -1247,11 +1247,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":371466405.8
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":100141035.0
             }
         ],
@@ -1262,11 +1262,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":24925055610.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":5501284286.0
             }
         ],
@@ -1277,11 +1277,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":24925055610.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":5501284286.0
             }
         ],
@@ -1292,11 +1292,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":24925055610.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":5501284286.0
             }
         ],
@@ -1307,11 +1307,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":41249682457.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":3855740296.0
             }
         ],
@@ -1322,11 +1322,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":53852645106.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":3203139504.0
             }
         ],
@@ -1337,11 +1337,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":82986002828.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":3813283816.0
             }
         ],
@@ -1352,11 +1352,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":94032633453.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":4151822389.0
             }
         ],
@@ -1367,11 +1367,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":2622996991.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":1440397256.0
             }
         ],
@@ -1382,11 +1382,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":10237431640.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":1867722009.0
             }
         ],
@@ -1397,11 +1397,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":12635329400.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":1870660974.0
             }
         ],
@@ -1412,11 +1412,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":21000131830.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":3019222111.0
             }
         ],
@@ -1427,11 +1427,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":12722411270.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":3056970088.0
             }
         ],
@@ -1442,11 +1442,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":20754211560.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":3741479420.0
             }
         ],
@@ -1457,11 +1457,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":28779202170.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":4271631310.0
             }
         ],
@@ -1472,11 +1472,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":30672394366.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":4921958462.0
             }
         ],
@@ -1487,11 +1487,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":30773721236.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -1502,11 +1502,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":30473246.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":50316370.62
             }
         ],
@@ -1517,11 +1517,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":29106335.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":58559772.81
             }
         ],
@@ -1532,11 +1532,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":26120301.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":92875636.18
             }
         ],
@@ -1547,11 +1547,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":28210188.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":134230601.9
             }
         ],
@@ -1562,11 +1562,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":72855334.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":160794564.3
             }
         ],
@@ -1577,11 +1577,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":96148291.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":177535392.1
             }
         ],
@@ -1592,11 +1592,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":143976791.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":177877420.7
             }
         ],
@@ -1607,11 +1607,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":246173059.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":229384875.4
             }
         ],
@@ -1622,11 +1622,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":217306922.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":282814334.3
             }
         ],
@@ -1637,11 +1637,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":29450878.98
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":33170736.06
             }
         ],
@@ -1652,11 +1652,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":35425230.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":38530538.28
             }
         ],
@@ -1667,11 +1667,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":71896113.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":30796614.62
             }
         ],
@@ -1682,11 +1682,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":102802566.9
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":71219014.99
             }
         ],
@@ -1697,11 +1697,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":110146657.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":80238357.28
             }
         ],
@@ -1712,11 +1712,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":48300000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":201183507.6
             }
         ],
@@ -1727,11 +1727,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":55300000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":209213160.1
             }
         ],
@@ -1742,11 +1742,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":20900000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":188072671.5
             }
         ],
@@ -1757,11 +1757,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":160705175.4
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":194738078.6
             }
         ],
@@ -1772,11 +1772,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":87349503.05
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":227208126.0
             }
         ],
@@ -1787,11 +1787,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":221333358.8
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":194058637.7
             }
         ],
@@ -1802,11 +1802,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":283774774.2
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":241248958.4
             }
         ],
@@ -1817,11 +1817,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":281237313.4
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":273988267.7
             }
         ],
@@ -1832,11 +1832,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":380403587.3
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":282290781.8
             }
         ],
@@ -1847,11 +1847,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":346547621.4
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":264133486.9
             }
         ],
@@ -1862,11 +1862,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":425193486.6
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":316200188.1
             }
         ],
@@ -1877,11 +1877,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":481528351.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":234658048.8
             }
         ],
@@ -1892,11 +1892,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":29636377.09
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":58743777.63
             }
         ],
@@ -1907,11 +1907,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":280165029.8
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":58574842.38
             }
         ],
@@ -1922,11 +1922,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":175753291.2
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":71804810.57
             }
         ],
@@ -1937,11 +1937,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":231365651.6
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":80324653.3
             }
         ],
@@ -1952,11 +1952,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":191165715.1
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":102072593.4
             }
         ],
@@ -1967,11 +1967,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":270018613.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":137325167.0
             }
         ],
@@ -1982,11 +1982,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":448018316.8
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":159006020.9
             }
         ],
@@ -1997,11 +1997,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":472169395.8
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":161654894.7
             }
         ],
@@ -2012,11 +2012,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":411987301.6
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":106744257.0
             }
         ],
@@ -2027,11 +2027,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":411987301.6
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":106744257.0
             }
         ],
@@ -2042,11 +2042,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":640532901.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":143276744.4
             }
         ],
@@ -2057,11 +2057,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":587942636.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":221131755.0
             }
         ],
@@ -2072,11 +2072,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":512525992.4
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":178420573.1
             }
         ],
@@ -2087,11 +2087,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":943183886.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":241576891.9
             }
         ],
@@ -2102,11 +2102,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1716796513.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":330918657.0
             }
         ],
@@ -2117,11 +2117,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1180619495.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":409409481.9
             }
         ],
@@ -2132,11 +2132,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1054895582.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -2147,11 +2147,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":25571802.53
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":321120231.2
             }
         ],
@@ -2162,11 +2162,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":51049678.18
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":298920331.5
             }
         ],
@@ -2177,11 +2177,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":71555872.34
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":334744378.5
             }
         ],
@@ -2192,11 +2192,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":115116240.3
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":370573742.2
             }
         ],
@@ -2207,11 +2207,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":14928853.71
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":101422221.8
             }
         ],
@@ -2222,11 +2222,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":25063833.7
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":115801618.3
             }
         ],
@@ -2237,11 +2237,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":147175593.5
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":114273315.5
             }
         ],
@@ -2252,11 +2252,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":418740295.8
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":145667807.7
             }
         ],
@@ -2267,11 +2267,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":143129702.9
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":145131603.4
             }
         ],
@@ -2282,11 +2282,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":109503726.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":133862208.8
             }
         ],
@@ -2297,11 +2297,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":119279040.3
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":145545164.8
             }
         ],
@@ -2312,11 +2312,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":344759167.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":188087154.5
             }
         ],
@@ -2327,11 +2327,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":8073000000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":585266591.6
             }
         ],
@@ -2342,11 +2342,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":15807000000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":714280055.6
             }
         ],
@@ -2357,11 +2357,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":15909000000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":664219754.4
             }
         ],
@@ -2372,11 +2372,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":11875000000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":591300041.3
             }
         ],
@@ -2387,11 +2387,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":17091000000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":1143648634.0
             }
         ],
@@ -2402,11 +2402,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":26596000000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":1998494598.0
             }
         ],
@@ -2417,11 +2417,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":37761759991.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":2161857644.0
             }
         ],
@@ -2432,11 +2432,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":45464400000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":2816888430.0
             }
         ],
@@ -2447,11 +2447,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":43678500000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":3954556098.0
             }
         ],
@@ -2462,11 +2462,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":59398200000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":4941064044.0
             }
         ],
@@ -2477,11 +2477,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":30129486000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":3628876757.0
             }
         ],
@@ -2492,11 +2492,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":44944995000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":5412712704.0
             }
         ],
@@ -2507,11 +2507,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":68613385930.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":8001943177.0
             }
         ],
@@ -2522,11 +2522,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":177501338.8
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":8746452937.0
             }
         ],
@@ -2537,11 +2537,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":71008812.23
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":34557446809.0
             }
         ],
@@ -2552,11 +2552,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":42349871975.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":32288841770.0
             }
         ],
@@ -2567,11 +2567,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":44013892000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":35860162691.0
             }
         ],
@@ -2582,11 +2582,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":60421715740.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":41517753886.0
             }
         ],
@@ -2597,11 +2597,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":65229640210.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":38328478101.0
             }
         ],
@@ -2612,11 +2612,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":884263514.5
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":1713577470.0
             }
         ],
@@ -2627,11 +2627,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1756747244.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":1986629106.0
             }
         ],
@@ -2642,11 +2642,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":2926435260.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":2237979848.0
             }
         ],
@@ -2657,11 +2657,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3125388073.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":3038714474.0
             }
         ],
@@ -2672,11 +2672,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3573697358.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":4354464168.0
             }
         ],
@@ -2687,11 +2687,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":2965369766.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":3736086215.0
             }
         ],
@@ -2702,11 +2702,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":4358147652.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":4074433641.0
             }
         ],
@@ -2717,11 +2717,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":5884323617.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":4603592065.0
             }
         ],
@@ -2732,11 +2732,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":5480907241.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":5752929763.0
             }
         ],
@@ -2747,11 +2747,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":802597372.7
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":63671111.85
             }
         ],
@@ -2762,11 +2762,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1738493618.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":87324658.33
             }
         ],
@@ -2777,11 +2777,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":2581804427.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":115507574.9
             }
         ],
@@ -2792,11 +2792,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":2553350326.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":129762085.3
             }
         ],
@@ -2807,11 +2807,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":4645910136.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":146884916.8
             }
         ],
@@ -2822,11 +2822,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":2343960553.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":109475859.4
             }
         ],
@@ -2837,11 +2837,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3195780380.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":166498739.9
             }
         ],
@@ -2852,11 +2852,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":5529544307.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":243013781.2
             }
         ],
@@ -2867,11 +2867,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3185676000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":319823669.8
             }
         ],
@@ -2882,11 +2882,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3041615000.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -2897,11 +2897,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":7255694.576
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":36746247.21
             }
         ],
@@ -2912,11 +2912,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":10201528.67
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":35093393.82
             }
         ],
@@ -2927,11 +2927,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":4427564.211
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":44021728.53
             }
         ],
@@ -2942,11 +2942,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":5875777.998
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":53337976.13
             }
         ],
@@ -2957,11 +2957,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":7586792.565
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":61032687.13
             }
         ],
@@ -2972,11 +2972,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":27621406.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":77258184.21
             }
         ],
@@ -2987,11 +2987,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":102252340.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":780646026.3
             }
         ],
@@ -3002,11 +3002,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":305762430.1
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":645534737.7
             }
         ],
@@ -3017,11 +3017,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":329804745.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":658624559.5
             }
         ],
@@ -3032,11 +3032,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":468277747.7
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":776925028.2
             }
         ],
@@ -3047,11 +3047,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":2509572538.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":50000279.16
             }
         ],
@@ -3062,11 +3062,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1763889996.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":44470511.36
             }
         ],
@@ -3077,11 +3077,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":2149721568.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":40067756.83
             }
         ],
@@ -3092,11 +3092,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3453285817.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":39318381.3
             }
         ],
@@ -3107,11 +3107,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":60128720.45
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":108631660.3
             }
         ],
@@ -3122,11 +3122,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":31315792.57
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":157175115.0
             }
         ],
@@ -3137,11 +3137,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":60128720.45
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":108631660.3
             }
         ],
@@ -3152,11 +3152,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":31315792.57
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":157175115.0
             }
         ],
@@ -3167,11 +3167,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":31681601.94
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":173918216.5
             }
         ],
@@ -3182,11 +3182,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3593984496.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":618495813.7
             }
         ],
@@ -3197,11 +3197,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":4668154975.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":259870834.7
             }
         ],
@@ -3212,11 +3212,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":5122351269.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":290347915.1
             }
         ],
@@ -3227,11 +3227,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":5331162225.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":374966719.7
             }
         ],
@@ -3242,11 +3242,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":7591231594.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":475721803.5
             }
         ],
@@ -3257,11 +3257,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":3625997931.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":372119535.4
             }
         ],
@@ -3272,11 +3272,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":5081696110.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":409024286.5
             }
         ],
@@ -3287,11 +3287,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":5539756725.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":390012124.3
             }
         ],
@@ -3302,11 +3302,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":470370875.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":641361457.0
             }
         ],
@@ -3317,11 +3317,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":533783358.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":545729915.2
             }
         ],
@@ -3332,11 +3332,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":757063737.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":753535811.6
             }
         ],
@@ -3347,11 +3347,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1588841770.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":930861126.4
             }
         ],
@@ -3362,11 +3362,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1537626771.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":1046243868.0
             }
         ],
@@ -3377,11 +3377,11 @@
     {
         "cats":[
             {
-                "name":"Resource revenues (US$)",
+                "name":"Resource revenues",
                 "value":1498550078.0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3396,7 +3396,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3411,7 +3411,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3426,7 +3426,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3441,7 +3441,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3456,7 +3456,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3471,7 +3471,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3486,7 +3486,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3501,7 +3501,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3516,7 +3516,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3531,7 +3531,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3546,7 +3546,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3561,7 +3561,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3576,7 +3576,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3591,7 +3591,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3606,7 +3606,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3621,7 +3621,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3636,7 +3636,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3651,7 +3651,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3666,7 +3666,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3681,7 +3681,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3696,7 +3696,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3711,7 +3711,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3726,7 +3726,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3741,7 +3741,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3756,7 +3756,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3771,7 +3771,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3786,7 +3786,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3801,7 +3801,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3816,7 +3816,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3831,7 +3831,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3846,7 +3846,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3861,7 +3861,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3876,7 +3876,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3891,7 +3891,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3906,7 +3906,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3921,7 +3921,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3936,7 +3936,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3951,7 +3951,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3966,7 +3966,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3981,7 +3981,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -3996,7 +3996,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4011,7 +4011,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4026,7 +4026,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4041,7 +4041,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4056,7 +4056,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4071,7 +4071,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4086,7 +4086,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4101,7 +4101,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4116,7 +4116,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4131,7 +4131,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4146,7 +4146,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4161,7 +4161,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4176,7 +4176,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4191,7 +4191,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4206,7 +4206,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4221,7 +4221,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4236,7 +4236,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4251,7 +4251,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4266,7 +4266,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4281,7 +4281,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4296,7 +4296,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4311,7 +4311,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4326,7 +4326,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4341,7 +4341,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4356,7 +4356,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4371,7 +4371,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4386,7 +4386,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4401,7 +4401,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4416,7 +4416,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4431,7 +4431,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4446,7 +4446,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4461,7 +4461,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4476,7 +4476,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4491,7 +4491,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4506,7 +4506,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4521,7 +4521,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4536,7 +4536,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4551,7 +4551,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4566,7 +4566,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4581,7 +4581,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4596,7 +4596,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4611,7 +4611,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4626,7 +4626,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4641,7 +4641,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4656,7 +4656,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4671,7 +4671,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4686,7 +4686,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4701,7 +4701,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4716,7 +4716,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4731,7 +4731,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4746,7 +4746,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4761,7 +4761,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4776,7 +4776,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4791,7 +4791,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4806,7 +4806,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4821,7 +4821,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4836,7 +4836,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4851,7 +4851,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4866,7 +4866,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4881,7 +4881,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4896,7 +4896,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4911,7 +4911,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4926,7 +4926,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4941,7 +4941,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4956,7 +4956,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4971,7 +4971,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -4986,7 +4986,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5001,7 +5001,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5016,7 +5016,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5031,7 +5031,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5046,7 +5046,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5061,7 +5061,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5076,7 +5076,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5091,7 +5091,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5106,7 +5106,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5121,7 +5121,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5136,7 +5136,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5151,7 +5151,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5166,7 +5166,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5181,7 +5181,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5196,7 +5196,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5211,7 +5211,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5226,7 +5226,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5241,7 +5241,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5256,7 +5256,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5271,7 +5271,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5286,7 +5286,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5301,7 +5301,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5316,7 +5316,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5331,7 +5331,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5346,7 +5346,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5361,7 +5361,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5376,7 +5376,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5391,7 +5391,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5406,7 +5406,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5421,7 +5421,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5436,7 +5436,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5451,7 +5451,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5466,7 +5466,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5481,7 +5481,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5496,7 +5496,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5511,7 +5511,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5526,7 +5526,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5541,7 +5541,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5556,7 +5556,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5571,7 +5571,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5586,7 +5586,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5601,7 +5601,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5616,7 +5616,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5631,7 +5631,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5646,7 +5646,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5661,7 +5661,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5676,7 +5676,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5691,7 +5691,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5706,7 +5706,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5721,7 +5721,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5736,7 +5736,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5751,7 +5751,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5766,7 +5766,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5781,7 +5781,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5796,7 +5796,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5811,7 +5811,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5826,7 +5826,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5841,7 +5841,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5856,7 +5856,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5871,7 +5871,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5886,7 +5886,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5901,7 +5901,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5916,7 +5916,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5931,7 +5931,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5946,7 +5946,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5961,7 +5961,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5976,7 +5976,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -5991,7 +5991,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6006,7 +6006,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6021,7 +6021,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6036,7 +6036,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6051,7 +6051,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6066,7 +6066,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6081,7 +6081,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6096,7 +6096,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6111,7 +6111,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6126,7 +6126,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6141,7 +6141,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6156,7 +6156,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6171,7 +6171,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6186,7 +6186,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6201,7 +6201,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6216,7 +6216,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6231,7 +6231,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6246,7 +6246,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6261,7 +6261,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6276,7 +6276,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6291,7 +6291,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6306,7 +6306,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6321,7 +6321,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6336,7 +6336,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6351,7 +6351,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6366,7 +6366,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6381,7 +6381,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6396,7 +6396,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6411,7 +6411,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6426,7 +6426,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6441,7 +6441,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6456,7 +6456,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6471,7 +6471,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6486,7 +6486,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6501,7 +6501,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6516,7 +6516,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6531,7 +6531,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6546,7 +6546,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6561,7 +6561,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6576,7 +6576,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6591,7 +6591,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6606,7 +6606,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6621,7 +6621,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6636,7 +6636,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6651,7 +6651,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6666,7 +6666,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6681,7 +6681,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6696,7 +6696,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6711,7 +6711,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6726,7 +6726,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6741,7 +6741,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6756,7 +6756,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6771,7 +6771,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6786,7 +6786,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6801,7 +6801,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6816,7 +6816,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6831,7 +6831,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6846,7 +6846,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6861,7 +6861,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6876,7 +6876,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6891,7 +6891,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6906,7 +6906,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6921,7 +6921,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6936,7 +6936,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6951,7 +6951,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6966,7 +6966,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6981,7 +6981,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -6996,7 +6996,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7011,7 +7011,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7026,7 +7026,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7041,7 +7041,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7056,7 +7056,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7071,7 +7071,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7086,7 +7086,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7101,7 +7101,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7116,7 +7116,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7131,7 +7131,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7146,7 +7146,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7161,7 +7161,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7176,7 +7176,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7191,7 +7191,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7206,7 +7206,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7221,7 +7221,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7236,7 +7236,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7251,7 +7251,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7266,7 +7266,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7281,7 +7281,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7296,7 +7296,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7311,7 +7311,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7326,7 +7326,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7341,7 +7341,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7356,7 +7356,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7371,7 +7371,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7386,7 +7386,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7401,7 +7401,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7416,7 +7416,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7431,7 +7431,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7446,7 +7446,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7461,7 +7461,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7476,7 +7476,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7491,7 +7491,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7506,7 +7506,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7521,7 +7521,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7536,7 +7536,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7551,7 +7551,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7566,7 +7566,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7581,7 +7581,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7596,7 +7596,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7611,7 +7611,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7626,7 +7626,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7641,7 +7641,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7656,7 +7656,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7671,7 +7671,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7686,7 +7686,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7701,7 +7701,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7716,7 +7716,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7731,7 +7731,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7746,7 +7746,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7761,7 +7761,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7776,7 +7776,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7791,7 +7791,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7806,7 +7806,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7821,7 +7821,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7836,7 +7836,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7851,7 +7851,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7866,7 +7866,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7881,7 +7881,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7896,7 +7896,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7911,7 +7911,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7926,7 +7926,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7941,7 +7941,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7956,7 +7956,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7971,7 +7971,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -7986,7 +7986,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -8001,7 +8001,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -8016,7 +8016,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -8031,7 +8031,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -8046,7 +8046,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -8061,7 +8061,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -8076,7 +8076,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -8091,7 +8091,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -8106,7 +8106,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -8121,7 +8121,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],
@@ -8136,7 +8136,7 @@
                 "value":0
             },
             {
-                "name":"Health expenditure (US$) - WB",
+                "name":"Public spending on health",
                 "value":0
             }
         ],

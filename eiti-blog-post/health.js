@@ -3,6 +3,9 @@ var d3;
 
 var datafile = "./data/health.json";
 var country_init = "Cameroon";
+// var citation_text = "World Bank Development Indicators: Health expenditure, public (% of GDP)";
+var citation_text = "World Bank DataBank";
+var citation_url = "http://data.worldbank.org/indicator/SH.XPD.PUBL.ZS";
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     // width = parseInt(d3.select('#chart').style('width'), 10),
@@ -134,11 +137,16 @@ d3.json(datafile, function (error, data) {
     d3.select("#chart_title")
         .text(country_init);
 
+    d3.select("body").append("div")
+        .attr("class", "citation")
+        .style("width", width + "px")
+        .html("<small><em>Source: <a href='" + citation_url + "''>" + citation_text + "</a></em></small>");
+
     var legend = svg.selectAll(".legend")
         .data(cat_names.slice().reverse())
         .enter().append("g")
         .attr("class", "legend")
-        .attr("transform", function (d, i) { return "translate(-575," + i * 20 + ")"; });
+        .attr("transform", function (d, i) { return "translate(-600," + i * 20 + ")"; });
 
     legend.append("rect")
         .attr("x", width - 18)
@@ -152,7 +160,7 @@ d3.json(datafile, function (error, data) {
         .attr("y", 20)
         .attr("dy", ".35em")
         .style("text-anchor", "end")
-        .text(function (d) { return d; });
+        .text(function (d) { return d + " (US$)"; });
 
     svg.append("g")
         .attr("class", "x axis")
