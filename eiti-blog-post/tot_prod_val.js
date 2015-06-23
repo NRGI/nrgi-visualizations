@@ -139,7 +139,7 @@ d3.json(datafile, function (error, data) {
     d3.select("body").append("div")
         .attr("class", "citation")
         .style("width", width + "px")
-        .html("<small><em>Source: " + citation_text + "</em></small>");
+        .html("<small><em>Graphic by: Chris Perry | Source: " + citation_text + "</em></small>");
 
     var legend = svg.selectAll(".legend")
         .data(cat_names.slice().reverse())
