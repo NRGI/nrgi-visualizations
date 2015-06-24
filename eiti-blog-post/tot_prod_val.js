@@ -138,8 +138,10 @@ d3.json(datafile, function (error, data) {
 
     d3.select("body").append("div")
         .attr("class", "citation")
-        .style("width", width + "px")
-        .html("<small><em>Graphic by: Chris Perry | Source: " + citation_text + "</em></small>");
+        .style("width", width - 250 + "px")
+        .style('margin', '0 0 0 250px')
+        .style("display", "inline-block")
+        .html("<small><em>Graphic by: Chris Perry | Source: The production value data presented here are very rough estimate only, calculated by multiplying the commodity price by the production volume. Information on sources for the price and volume data is available <a href='http://www.resourcegovernance.org/sites/default/files/nrgi_EITIDataset_20150608.xlsx'>here</a>.</em></small>");
 
     var legend = svg.selectAll(".legend")
         .data(cat_names.slice().reverse())
