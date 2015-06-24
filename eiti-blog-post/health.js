@@ -140,7 +140,7 @@ d3.json(datafile, function (error, data) {
     d3.select("body").append("div")
         .attr("class", "citation")
         .style("width", width + "px")
-        .html("<small><em>Graphic by: Chris Perry | Source: <a href='" + citation_url + "' target='_blank'>" + citation_text + "</a> and the <a href='http://www.resourcegovernance.org/sites/default/files/nrgi_EITIDataset_20150608.xlsx'>NRGI EITI Dataset</a>.</em></small>");
+        .html("<small><em>Graphic by: Chris Perry | Source: <a href='" + citation_url + "' target='_blank'>" + citation_text + "</a> and the <a href='http://www.resourcegovernance.org/sites/default/files/nrgi_EITIDataset_20150608.xlsx'>NRGI EITI Dataset</a></em></small>");
 
     var legend = svg.selectAll(".legend")
         .data(cat_names.slice().reverse())
