@@ -3,6 +3,8 @@ var d3;
 
 var datafile = "./data/abs_data.csv";
 var country_init = "Bahrain";
+var citation_text = "International Monetary Fund WEO";
+var citation_url = "https://www.imf.org/external/pubs/ft/weo/2015/01/weodata/index.aspx";
 
 var margin = {top: 20, right: 80, bottom: 30, left: 40},
     width = 600 - margin.left - margin.right,
@@ -113,35 +115,34 @@ d3.csv(datafile, function (error, data) {
 
     variable.append("path")
         .attr("class", "line")
-        .attr("d", function(d) { console.log(d); return line(d.values); })
+        .attr("d", function(d) { return line(d.values); })
         .style("stroke", function(d) { return color(d.name); });
         // .on("mouseover", mouseover);
 
-    d3.select("#chart_title")
-        .text(country_init);
+    // d3.select("#chart_title")
+    //     .text(country_init);
+    d3.select("body").append("div")
+        .attr("class", "citation")
+        .style("width", width + "px")
+        .html("<small><em>Graphic by: Chris Perry | Source: <a href='" + citation_url + "' target='_blank'>" + citation_text + "</a></em></small>");
+
 
     var legend = svg.selectAll(".legend")
-        .data(cat_names.slice().reverse())
+        .data(variables)
+        // .data(cat_names.slice().reverse())
         .enter().append("g")
         .attr("class", "legend")
-        .attr("transform", function (d, i) { return "translate(-200," + i * 20 + ")"; });
-    legend.append("path")
-        .attr("x", width - 18)
-        .attr("y", 10)
-        .attr("width", 18)
-        .attr("height", 18)
-        .style("fill", color);
+        .attr("transform", function (d, i) { return "translate(-400," + i * 20 + ")"; });
+    legend.append('circle')
+        .attr('cx', width - 24)
+        .attr('cy', 20)
+        .attr('r', 7)
+        .style('fill', function(d) { return color(d.name); });
     legend.append("text")
-        .attr("x", width - 24)
+        .attr("x", width - 10)
         .attr("y", 20)
         .attr("dy", ".35em")
-        .style("text-anchor", "end")
-        .text(function (d) { return d + " (US$)"; });
-    legend.append("text")
-        .attr("x", width - 24)
-        .attr("y", height + 40)
-        .attr("dy", ".35em")
-        .attr("class", "small")
+        .text(function (d) { return d.name; });
 
     var dropdown = d3.select("#dropdown").append("select")
         .attr("class", "form-control")
@@ -163,7 +164,7 @@ d3.csv(datafile, function (error, data) {
                 
                 color.domain(d3.keys(data_init[0]).filter(function(key) { return key !== "year" && key !== 'country' && key !== 'iso';  }));
 
-                var new_variables = color.domain().map(function(name) {
+                var variables = color.domain().map(function(name) {
                     if (name !== 'country' || name !== 'iso') {
                         return {
                             name: name,
@@ -176,13 +177,13 @@ d3.csv(datafile, function (error, data) {
 
                 xScale.domain(d3.extent(data_init, function(d) { return d.year; }));
                 yScale.domain([
-                    d3.min(new_variables, function(c) { return d3.min(c.values, function(v) { return v.value; }); }),
-                    d3.max(new_variables, function(c) { return d3.max(c.values, function(v) { return v.value; }); })
+                    d3.min(variables, function(c) { return d3.min(c.values, function(v) { return v.value; }); }),
+                    d3.max(variables, function(c) { return d3.max(c.values, function(v) { return v.value; }); })
                 ]);
                 var svg = d3.select("body").transition();
 
                 variable.select(".line")
-                  .data(new_variables)
+                  .data(variables)
                   .transition()
                   .duration(750)
                   .attr("d", function(d) { return line(d.values); });
