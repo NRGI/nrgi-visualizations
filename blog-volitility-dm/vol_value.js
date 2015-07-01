@@ -1,14 +1,17 @@
 'use strict';
 var d3;
 
-var datafile = "./data/abs_data.csv";
-var country_init = "Bahrain";
+var datafile = "./data/vol_data.csv";
+var country_init = "Algeria";
 var citation_text = "International Monetary Fund WEO";
 var citation_url = "https://www.imf.org/external/pubs/ft/weo/2015/01/weodata/index.aspx";
 
 var margin = {top: 20, right: 80, bottom: 30, left: 40},
     width = 600 - margin.left - margin.right,
     height = 300 - margin.top - margin.bottom;
+
+var parseDate = d3.time.format("%Y").parse;
+var formatPercent = d3.format(".0%");
 
 var xScale = d3.time.scale()
     .range([0, width]);
@@ -25,14 +28,13 @@ var xAxis = d3.svg.axis()
 
 var yAxis = d3.svg.axis()
     .scale(yScale)
-    .orient("left");
+    .orient("left")
+    .tickFormat(formatPercent);
 
 var line = d3.svg.line()
     .interpolate("basis")
     .x(function (d) { return xScale(d.year); })
     .y(function (d) { return yScale(d.value); });
-
-var parseDate = d3.time.format("%Y").parse;
 
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
@@ -95,12 +97,13 @@ d3.csv(datafile, function (error, data) {
     svg.append("g")
       .attr("class", "y axis")
       .call(yAxis)
-    .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("Billions national currency");
+    // .append("text")
+    //   .attr("transform", "rotate(-90)")
+    //   .attr("y", 6)
+    //   .attr("dy", ".71em")
+    //   .style("text-anchor", "end")
+    //   .tickFormat(formatPercent);
+      // .text("Billions national currency");
 
     // var div = d3.select("body").append("div")
     //     .attr("class", "tooltip")
@@ -132,7 +135,7 @@ d3.csv(datafile, function (error, data) {
         // .data(cat_names.slice().reverse())
         .enter().append("g")
         .attr("class", "legend")
-        .attr("transform", function (d, i) { return "translate(-400," + i * 20 + ")"; });
+        .attr("transform", function (d, i) { return "translate(-400,-" + i * 20 + ")"; });
     legend.append('circle')
         .attr('cx', width - 24)
         .attr('cy', 20)
