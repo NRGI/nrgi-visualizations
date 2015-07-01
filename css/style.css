@@ -10,10 +10,10 @@ body {
     margin-top: 10px;
 }
 
-#main {
+/*#main {
     float: left;
     width: 750px;
-}
+}*/
 #sequence {
     margin-top: 10px;
     width: 50%;
@@ -21,7 +21,9 @@ body {
 }
 #chart {
     width: 100%;
+    height: 100%;
     margin: 0 auto;
+    position: absolute;
 }
 
 .citation {
@@ -63,6 +65,11 @@ div.tooltip {
   stroke: #000;
 }
 
+.line {
+      fill: none;
+      stroke: grey;
+      stroke-width: .1em;
+}
 /*circle,path {
   cursor: pointer;
 }
