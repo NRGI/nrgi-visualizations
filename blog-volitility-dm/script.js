@@ -29,7 +29,6 @@ var line = d3.svg.line()
     .interpolate("basis")
     .x(function (d) { return xScale(d.year); })
     .y(function (d) { return yScale(d.value); });
-    // .y(function (d) { return yScale(d.value); });
 
 var parseDate = d3.time.format("%Y").parse;
 
@@ -118,31 +117,31 @@ d3.csv(datafile, function (error, data) {
         .style("stroke", function(d) { return color(d.name); });
         // .on("mouseover", mouseover);
 
-    // d3.select("#chart_title")
-    //     .text(country_init);
+    d3.select("#chart_title")
+        .text(country_init);
 
-    // var legend = svg.selectAll(".legend")
-    //     .data(cat_names.slice().reverse())
-    //     .enter().append("g")
-    //     .attr("class", "legend")
-    //     .attr("transform", function (d, i) { return "translate(-200," + i * 20 + ")"; });
-    // legend.append("path")
-    //     .attr("x", width - 18)
-    //     .attr("y", 10)
-    //     .attr("width", 18)
-    //     .attr("height", 18)
-    //     .style("fill", color);
-    // legend.append("text")
-    //     .attr("x", width - 24)
-    //     .attr("y", 20)
-    //     .attr("dy", ".35em")
-    //     .style("text-anchor", "end")
-    //     .text(function (d) { return d + " (US$)"; });
-    // legend.append("text")
-    //     .attr("x", width - 24)
-    //     .attr("y", height + 40)
-    //     .attr("dy", ".35em")
-    //     .attr("class", "small")
+    var legend = svg.selectAll(".legend")
+        .data(cat_names.slice().reverse())
+        .enter().append("g")
+        .attr("class", "legend")
+        .attr("transform", function (d, i) { return "translate(-200," + i * 20 + ")"; });
+    legend.append("path")
+        .attr("x", width - 18)
+        .attr("y", 10)
+        .attr("width", 18)
+        .attr("height", 18)
+        .style("fill", color);
+    legend.append("text")
+        .attr("x", width - 24)
+        .attr("y", 20)
+        .attr("dy", ".35em")
+        .style("text-anchor", "end")
+        .text(function (d) { return d + " (US$)"; });
+    legend.append("text")
+        .attr("x", width - 24)
+        .attr("y", height + 40)
+        .attr("dy", ".35em")
+        .attr("class", "small")
 
     var dropdown = d3.select("#dropdown").append("select")
         .attr("class", "form-control")
@@ -186,7 +185,7 @@ d3.csv(datafile, function (error, data) {
                   .data(new_variables)
                   .transition()
                   .duration(750)
-                  .attr("d", function(d) { console.log(d); return line(d.values); });
+                  .attr("d", function(d) { return line(d.values); });
 
                 svg.select(".x.axis") // change the x axis
                     .duration(750)
