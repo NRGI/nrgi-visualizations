@@ -32,7 +32,7 @@ def main(args):
                 year = row[lkey['Year']]
                 country = row[lkey['Country']]
 
-                if country == "C\x93te d'Ivoire" or country == "C\xd2te d'Ivoire" or country == "C\xf4te d'Ivoire" or country == "C\x99te d'Ivoire" or country == "C\xaate d'Ivoire":
+                if country == "C\x93te d'Ivoire" or country == "C\xd2te d'Ivoire" or country == "C\xf4te d'Ivoire" or country == "C\x99te d'Ivoire" or country == "C\xaate d'Ivoire" or country == "C\xbbte d'Ivoire" or country == "C\xc8te d'Ivoire" or country == "C\xe9te d'Ivoire":
                     country = "Cote d'Ivoire"
                     country_id = 'CIV'
                 elif country == 'Democratic Republic of Congo':

@@ -3,8 +3,8 @@ var d3;
 
 var datafile = "./data/abs_data.csv";
 var country_init = "Algeria";
-var citation_text = "International Monetary Fund WEO";
-var citation_url = "https://www.imf.org/external/pubs/ft/weo/2015/01/weodata/index.aspx";
+var citation_text = "Citation Text";
+var citation_url = "#";
 
 var margin = {top: 20, right: 80, bottom: 30, left: 40},
     width = 600 - margin.left - margin.right,
@@ -39,6 +39,7 @@ var svg = d3.select("body").append("svg")
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
     .attr("id", "container")
+    .style("fill", "black")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 d3.csv(datafile, function (error, data) {

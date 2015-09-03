@@ -498,7 +498,7 @@
         "cats":[
             {
                 "name":"Extractive revenues",
-                "value":1566015122.0
+                "value":1566909553.0
             },
             {
                 "name":"Public spending on health",
@@ -1278,11 +1278,11 @@
         "cats":[
             {
                 "name":"Extractive revenues",
-                "value":24925055610.0
+                "value":32949795856.0
             },
             {
                 "name":"Public spending on health",
-                "value":5501284286.0
+                "value":7800153905.0
             }
         ],
         "year":"2010",
@@ -1293,11 +1293,11 @@
         "cats":[
             {
                 "name":"Extractive revenues",
-                "value":24925055610.0
+                "value":44779611925.0
             },
             {
                 "name":"Public spending on health",
-                "value":5501284286.0
+                "value":9183435786.0
             }
         ],
         "year":"2011",
