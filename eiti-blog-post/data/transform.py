@@ -100,7 +100,7 @@ def main(args):
                         "year": year,
                         "cats": [
                             {
-                                "name": "Resource revenues (US$)",
+                                "name": "Resource revenues",
                                 "value": 0
                             },
                             {
